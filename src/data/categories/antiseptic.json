@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "জার্মনিল",
+          "image": "/images/anticeptic/local/germnil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "হ্যান্ডিওয়াশ",
+          "image": "/images/anticeptic/local/handiwash_sanitizerbd.png",
+          "tags": []
+        },
+        {
+          "name": "হেক্সিসল",
+          "image": "/images/anticeptic/local/hexisol_hand_rubbd.png",
+          "tags": []
+        },
+        {
+          "name": "স্যাভলন",
+          "image": "/images/anticeptic/local/savlon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সেপনিল",
+          "image": "/images/anticeptic/local/sepnil_disinfectant_spraybd.png",
+          "tags": []
+        },
+        {
+          "name": "ভোডিন",
+          "image": "/images/anticeptic/local/vodin_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "বরোলিন",
+          "image": "/images/anticeptic/imported/borolineindia.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ডেটল",
+          "image": "/images/anticeptic/imported/dettol_antiseptic_disinfectant_liquid_uk.png",
+          "tags": ["UK", "Antiseptic", "Disinfectant"]
+        },
+        {
+          "name": "জার্মিসল",
+          "image": "/images/anticeptic/imported/germisol_hand_rubindia.png",
+          "tags": ["India", "Hand Rub"]
+        },
+        {
+          "name": "শিল্ড",
+          "image": "/images/anticeptic/imported/shield_liquid_hand_rubndia.png",
+          "tags": ["India", "Hand Rub"]
+        },
+        {
+          "name": "সুডোক্রিম",
+          "image": "/images/anticeptic/imported/sudocrem_ireland.png",
+          "tags": ["Ireland"]
+        },
+        {
+          "name": "সুথিল",
+          "image": "/images/anticeptic/imported/suthil_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Germnil",
+          "image": "/images/anticeptic/local/germnil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Handiwash",
+          "image": "/images/anticeptic/local/handiwash_sanitizerbd.png",
+          "tags": []
+        },
+        {
+          "name": "Hexisol",
+          "image": "/images/anticeptic/local/hexisol_hand_rubbd.png",
+          "tags": []
+        },
+        {
+          "name": "Savlon",
+          "image": "/images/anticeptic/local/savlon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Sepnil",
+          "image": "/images/anticeptic/local/sepnil_disinfectant_spraybd.png",
+          "tags": []
+        },
+        {
+          "name": "Vodin",
+          "image": "/images/anticeptic/local/vodin_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Boroline",
+          "image": "/images/anticeptic/imported/borolineindia.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Dettol",
+          "image": "/images/anticeptic/imported/dettol_antiseptic_disinfectant_liquid_uk.png",
+          "tags": ["UK", "Antiseptic", "Disinfectant"]
+        },
+        {
+          "name": "Germisol",
+          "image": "/images/anticeptic/imported/germisol_hand_rubindia.png",
+          "tags": ["India", "Hand Rub"]
+        },
+        {
+          "name": "Shield",
+          "image": "/images/anticeptic/imported/shield_liquid_hand_rubndia.png",
+          "tags": ["India", "Hand Rub"]
+        },
+        {
+          "name": "Sudocrem",
+          "image": "/images/anticeptic/imported/sudocrem_ireland.png",
+          "tags": ["Ireland"]
+        },
+        {
+          "name": "Suthil",
+          "image": "/images/anticeptic/imported/suthil_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

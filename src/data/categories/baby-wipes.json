@@ -1,0 +1,100 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "স্যাভলন",
+          "image": "/images/baby wipes/local/aci_savlon_baby_wipes_antibacterial_bd.png",
+          "tags": []
+        },
+        {
+          "name": "বসুন্ধরা",
+          "image": "/images/baby wipes/local/bashundhara_baby_wipes_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ",
+          "image": "/images/baby wipes/local/fresh_happy_nappy_baby_wipes_pouch_pack_bd.png",
+          "tags": []
+        },
+        {
+          "name": "নিওকেয়ার",
+          "image": "/images/baby wipes/local/neocare_baby_wipes_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সুপারমম",
+          "image": "/images/baby wipes/local/supermom_premium_mild_baby_wipes_bd.png",
+          "tags": []
+        },
+        {
+          "name": "থাই",
+          "image": "/images/baby wipes/local/thai_wet_wipes_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "পজি",
+          "image": "/images/baby wipes/imported/pozzy_premium_hygienic_baby_wet_towel_wipes_turkey.png",
+          "tags": ["Turkey", "Hygienic", "Wet Towel"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Savlon",
+          "image": "/images/baby wipes/local/aci_savlon_baby_wipes_antibacterial_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Bashundhara",
+          "image": "/images/baby wipes/local/bashundhara_baby_wipes_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh",
+          "image": "/images/baby wipes/local/fresh_happy_nappy_baby_wipes_pouch_pack_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Neocare",
+          "image": "/images/baby wipes/local/neocare_baby_wipes_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Supermom",
+          "image": "/images/baby wipes/local/supermom_premium_mild_baby_wipes_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Thai",
+          "image": "/images/baby wipes/local/thai_wet_wipes_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Pozzy",
+          "image": "/images/baby wipes/imported/pozzy_premium_hygienic_baby_wet_towel_wipes_turkey.png",
+          "tags": ["Turkey", "Hygienic", "Wet Towel"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

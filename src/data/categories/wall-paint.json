@@ -1,0 +1,110 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "রেইনবো",
+          "image": "/images/wall paint/local/rainbow_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রক্সি পেইন্ট",
+          "image": "/images/wall paint/local/roxy_paint_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "এশিয়ান পেইন্ট",
+          "image": "/images/wall paint/imported/asian_paint_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "বার্জার",
+          "image": "/images/wall paint/imported/berger_german.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "ঝিলমিল",
+          "image": "/images/wall paint/imported/jhilmil_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "নেরোলাক",
+          "image": "/images/wall paint/imported/nerolac_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "নিপন পেইন্ট",
+          "image": "/images/wall paint/imported/nippon_paint_japan.png",
+          "tags": ["Japan"]
+        },
+        {
+          "name": "ট্রুকেয়ার",
+          "image": "/images/wall paint/imported/trucare_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Rainbow",
+          "image": "/images/wall paint/local/rainbow_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Roxy Paint",
+          "image": "/images/wall paint/local/roxy_paint_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Asian Paint",
+          "image": "/images/wall paint/imported/asian_paint_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Berger",
+          "image": "/images/wall paint/imported/berger_german.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "Jhilmil",
+          "image": "/images/wall paint/imported/jhilmil_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Nerolac",
+          "image": "/images/wall paint/imported/nerolac_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Nippon Paint",
+          "image": "/images/wall paint/imported/nippon_paint_japan.png",
+          "tags": ["Japan"]
+        },
+        {
+          "name": "Trucare",
+          "image": "/images/wall paint/imported/trucare_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

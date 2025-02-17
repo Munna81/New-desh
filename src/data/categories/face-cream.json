@@ -1,0 +1,160 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "দিভাস",
+          "image": "/images/face cream/local/divas_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট",
+          "image": "/images/face cream/local/parachute_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রাজকন্যা",
+          "image": "/images/face cream/local/rajkonna_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "নিউট্রোজেনা",
+          "image": "/images/face cream/imported/Neutrogena_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "আভিনো",
+          "image": "/images/face cream/imported/aveeno_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "ডাভ",
+          "image": "/images/face cream/imported/doveindia.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ফেয়ার অ্যান্ড লাভলি",
+          "image": "/images/face cream/imported/fair_lovely_uniliver.png",
+          "tags": ["India", "Unilever"]
+        },
+        {
+          "name": "হিমালয়া",
+          "image": "/images/face cream/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লোটাস হার্বাল",
+          "image": "/images/face cream/imported/lotus_herbal_india.png",
+          "tags": ["India", "Herbal"]
+        },
+        {
+          "name": "মামা আর্থ",
+          "image": "/images/face cream/imported/mama_earth_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ওলে",
+          "image": "/images/face cream/imported/olay_poland.png",
+          "tags": ["Poland"]
+        },
+        {
+          "name": "সিম্পল",
+          "image": "/images/face cream/imported/simple__uk.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "হোয়াইট টোন",
+          "image": "/images/face cream/imported/white_tone_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Divas",
+          "image": "/images/face cream/local/divas_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute",
+          "image": "/images/face cream/local/parachute_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Rajkonna",
+          "image": "/images/face cream/local/rajkonna_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Neutrogena",
+          "image": "/images/face cream/imported/Neutrogena_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Aveeno",
+          "image": "/images/face cream/imported/aveeno_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Dove",
+          "image": "/images/face cream/imported/doveindia.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Fair & Lovely",
+          "image": "/images/face cream/imported/fair_lovely_uniliver.png",
+          "tags": ["India", "Unilever"]
+        },
+        {
+          "name": "Himalaya",
+          "image": "/images/face cream/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Lotus Herbal",
+          "image": "/images/face cream/imported/lotus_herbal_india.png",
+          "tags": ["India", "Herbal"]
+        },
+        {
+          "name": "Mama Earth",
+          "image": "/images/face cream/imported/mama_earth_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Olay",
+          "image": "/images/face cream/imported/olay_poland.png",
+          "tags": ["Poland"]
+        },
+        {
+          "name": "Simple",
+          "image": "/images/face cream/imported/simple__uk.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "White Tone",
+          "image": "/images/face cream/imported/white_tone_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

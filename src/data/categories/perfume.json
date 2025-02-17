@@ -1,0 +1,160 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "কিউট ফ্যান্টাসি",
+          "image": "/images/perfume/local/cute_fantasy_perfume_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কুল ডিওডোরেন্ট ব্লু",
+          "image": "/images/perfume/local/kool_deodorant_body_spray_blue_1bd.png",
+          "tags": []
+        },
+        {
+          "name": "ওয়েভ কুল ওয়াটার",
+          "image": "/images/perfume/local/wave_cool_water_body_spraybd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "কালার মি ভোল্ট",
+          "image": "/images/perfume/imported/colour_me_perfume_volt_England_.png",
+          "tags": ["England"]
+        },
+        {
+          "name": "ডু ইট ডিওডোরেন্ট",
+          "image": "/images/perfume/imported/do_it_deodorant_spray_France_l.png",
+          "tags": ["France", "Deodorant"]
+        },
+        {
+          "name": "এনচ্যান্টার প্যারিস প্রিন্সেস",
+          "image": "/images/perfume/imported/enchanteur_paris_dily_scent_princesse_perfume_Indonesia.png",
+          "tags": ["Indonesia", "Princess"]
+        },
+        {
+          "name": "ফা রোল-অন অ্যাকোয়া",
+          "image": "/images/perfume/imported/fa_roll_on_aqua_auatic_fresh_UAE.png",
+          "tags": ["UAE", "Roll-on", "Aqua"]
+        },
+        {
+          "name": "ফগ ভিক্টর",
+          "image": "/images/perfume/imported/fogg_body_spray_victor_1India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "হ্যাভক ডিওডোরেন্ট",
+          "image": "/images/perfume/imported/havoc_deodorant_spray_UAE.png",
+          "tags": ["UAE", "Deodorant"]
+        },
+        {
+          "name": "লেয়ার শট রেড স্টালিয়ন",
+          "image": "/images/perfume/imported/layerr_shot_red_stallion_body_spray_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "নিভিয়া মেন কুল কিক",
+          "image": "/images/perfume/imported/nivea_men_body_spray_cool_kick_extra_dry_Germany.png",
+          "tags": ["Germany", "Men", "Cool"]
+        },
+        {
+          "name": "ইয়াচ ম্যান ব্লু",
+          "image": "/images/perfume/imported/yacht_man_blue_perfumed_body_spray_uae.png",
+          "tags": ["UAE", "Men"]
+        },
+        {
+          "name": "ইয়ার্ডলি লন্ডন রোজ",
+          "image": "/images/perfume/imported/yardley_london_english_rose_body_spray_150_ml.png",
+          "tags": ["UK", "Rose"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Cute Fantasy",
+          "image": "/images/perfume/local/cute_fantasy_perfume_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Kool Deodorant Blue",
+          "image": "/images/perfume/local/kool_deodorant_body_spray_blue_1bd.png",
+          "tags": []
+        },
+        {
+          "name": "Wave Cool Water",
+          "image": "/images/perfume/local/wave_cool_water_body_spraybd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Colour Me Volt",
+          "image": "/images/perfume/imported/colour_me_perfume_volt_England_.png",
+          "tags": ["England"]
+        },
+        {
+          "name": "Do It Deodorant",
+          "image": "/images/perfume/imported/do_it_deodorant_spray_France_l.png",
+          "tags": ["France", "Deodorant"]
+        },
+        {
+          "name": "Enchanteur Paris Princess",
+          "image": "/images/perfume/imported/enchanteur_paris_dily_scent_princesse_perfume_Indonesia.png",
+          "tags": ["Indonesia", "Princess"]
+        },
+        {
+          "name": "Fa Roll-on Aqua",
+          "image": "/images/perfume/imported/fa_roll_on_aqua_auatic_fresh_UAE.png",
+          "tags": ["UAE", "Roll-on", "Aqua"]
+        },
+        {
+          "name": "Fogg Victor",
+          "image": "/images/perfume/imported/fogg_body_spray_victor_1India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Havoc Deodorant",
+          "image": "/images/perfume/imported/havoc_deodorant_spray_UAE.png",
+          "tags": ["UAE", "Deodorant"]
+        },
+        {
+          "name": "Layer'r Shot Red Stallion",
+          "image": "/images/perfume/imported/layerr_shot_red_stallion_body_spray_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Nivea Men Cool Kick",
+          "image": "/images/perfume/imported/nivea_men_body_spray_cool_kick_extra_dry_Germany.png",
+          "tags": ["Germany", "Men", "Cool"]
+        },
+        {
+          "name": "Yacht Man Blue",
+          "image": "/images/perfume/imported/yacht_man_blue_perfumed_body_spray_uae.png",
+          "tags": ["UAE", "Men"]
+        },
+        {
+          "name": "Yardley London Rose",
+          "image": "/images/perfume/imported/yardley_london_english_rose_body_spray_150_ml.png",
+          "tags": ["UK", "Rose"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

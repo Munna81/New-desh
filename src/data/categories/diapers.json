@@ -1,0 +1,120 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ফ্রেশ হ্যাপি",
+          "image": "/images/diapers/local/fresh_happy_nappy_pant_diaper_bd.png",
+          "tags": []
+        },
+        {
+          "name": "নিওকেয়ার",
+          "image": "/images/diapers/local/neocare_premium_baby_diaper_belt_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সুপারমম",
+          "image": "/images/diapers/local/supermom_baby_diaper_beltbd.png",
+          "tags": []
+        },
+        {
+          "name": "থাই",
+          "image": "/images/diapers/local/thai_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টুইংকেল",
+          "image": "/images/diapers/local/twinkel_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "গিগলস",
+          "image": "/images/diapers/imported/giggles_premium_baby_diaper_Turkey.png",
+          "tags": ["Turkey", "Premium"]
+        },
+        {
+          "name": "হাগিস",
+          "image": "/images/diapers/imported/huggies_dry_baby_diaper_belt_mMalaysia.png",
+          "tags": ["Malaysia", "Dry"]
+        },
+        {
+          "name": "ন্যানিস",
+          "image": "/images/diapers/imported/nannys_baby_love_diaper_belt_Cyprus__.png",
+          "tags": ["Cyprus", "Baby Love"]
+        },
+        {
+          "name": "প্যাম্পারস",
+          "image": "/images/diapers/imported/pampers_new_baby_2_jumbo_pack_uk.png",
+          "tags": ["UK", "New Baby"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Fresh Happy",
+          "image": "/images/diapers/local/fresh_happy_nappy_pant_diaper_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Neocare",
+          "image": "/images/diapers/local/neocare_premium_baby_diaper_belt_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Supermom",
+          "image": "/images/diapers/local/supermom_baby_diaper_beltbd.png",
+          "tags": []
+        },
+        {
+          "name": "Thai",
+          "image": "/images/diapers/local/thai_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Twinkel",
+          "image": "/images/diapers/local/twinkel_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Giggles",
+          "image": "/images/diapers/imported/giggles_premium_baby_diaper_Turkey.png",
+          "tags": ["Turkey", "Premium"]
+        },
+        {
+          "name": "Huggies",
+          "image": "/images/diapers/imported/huggies_dry_baby_diaper_belt_mMalaysia.png",
+          "tags": ["Malaysia", "Dry"]
+        },
+        {
+          "name": "Nannys",
+          "image": "/images/diapers/imported/nannys_baby_love_diaper_belt_Cyprus__.png",
+          "tags": ["Cyprus", "Baby Love"]
+        },
+        {
+          "name": "Pampers",
+          "image": "/images/diapers/imported/pampers_new_baby_2_jumbo_pack_uk.png",
+          "tags": ["UK", "New Baby"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "স্যাভলন",
+          "image": "/images/body soap/local/aci_savlon_fresh_antiseptic_soapbd.png",
+          "tags": []
+        },
+        {
+          "name": "কিউট নিম",
+          "image": "/images/body soap/local/cute_neem_bd_.png",
+          "tags": []
+        },
+        {
+          "name": "ডেটল",
+          "image": "/images/body soap/local/dettol_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল মিল্ক",
+          "image": "/images/body soap/local/meril_milk_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট বেবি",
+          "image": "/images/body soap/local/parachute_just_for_baby_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্যান্ডালিনা",
+          "image": "/images/body soap/local/sandalina_sandal_bbd.png",
+          "tags": []
+        },
+        {
+          "name": "সেপনিল",
+          "image": "/images/body soap/local/sepnil_anti_bacterial_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টিবেট",
+          "image": "/images/body soap/local/tibet_luxury_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টুইংকল বেবি",
+          "image": "/images/body soap/local/twinkle_baby_soap_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "কাসন্স",
+          "image": "/images/body soap/imported/cussons_imperial_leather_indonesia.png",
+          "tags": ["Indonesia", "Imperial Leather"]
+        },
+        {
+          "name": "ডাভ",
+          "image": "/images/body soap/imported/dove_cream_beauty_bathing_bar_india.png",
+          "tags": ["India", "Beauty Bar"]
+        },
+        {
+          "name": "হিমালয়া",
+          "image": "/images/body soap/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "জনসনস বেবি",
+          "image": "/images/body soap/imported/johnsons_baby_soap_usa.png",
+          "tags": ["USA", "Baby Soap"]
+        },
+        {
+          "name": "কোডোমো বেবি",
+          "image": "/images/body soap/imported/kodomo_baby_soap_thailand.png",
+          "tags": ["Thailand", "Baby Soap"]
+        },
+        {
+          "name": "লাইফবয়",
+          "image": "/images/body soap/imported/lifebuoy_uniliver.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "লাক্স",
+          "image": "/images/body soap/imported/lux_soap_bar__uniliver.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "পিয়ার্স",
+          "image": "/images/body soap/imported/pears_uk.png",
+          "tags": ["UK"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Savlon",
+          "image": "/images/body soap/local/aci_savlon_fresh_antiseptic_soapbd.png",
+          "tags": []
+        },
+        {
+          "name": "Cute Neem",
+          "image": "/images/body soap/local/cute_neem_bd_.png",
+          "tags": []
+        },
+        {
+          "name": "Dettol",
+          "image": "/images/body soap/local/dettol_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Milk",
+          "image": "/images/body soap/local/meril_milk_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute Baby",
+          "image": "/images/body soap/local/parachute_just_for_baby_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Sandalina",
+          "image": "/images/body soap/local/sandalina_sandal_bbd.png",
+          "tags": []
+        },
+        {
+          "name": "Sepnil",
+          "image": "/images/body soap/local/sepnil_anti_bacterial_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tibet",
+          "image": "/images/body soap/local/tibet_luxury_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Twinkle Baby",
+          "image": "/images/body soap/local/twinkle_baby_soap_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Cussons",
+          "image": "/images/body soap/imported/cussons_imperial_leather_indonesia.png",
+          "tags": ["Indonesia", "Imperial Leather"]
+        },
+        {
+          "name": "Dove",
+          "image": "/images/body soap/imported/dove_cream_beauty_bathing_bar_india.png",
+          "tags": ["India", "Beauty Bar"]
+        },
+        {
+          "name": "Himalaya",
+          "image": "/images/body soap/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Johnsons Baby",
+          "image": "/images/body soap/imported/johnsons_baby_soap_usa.png",
+          "tags": ["USA", "Baby Soap"]
+        },
+        {
+          "name": "Kodomo Baby",
+          "image": "/images/body soap/imported/kodomo_baby_soap_thailand.png",
+          "tags": ["Thailand", "Baby Soap"]
+        },
+        {
+          "name": "Lifebuoy",
+          "image": "/images/body soap/imported/lifebuoy_uniliver.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "Lux",
+          "image": "/images/body soap/imported/lux_soap_bar__uniliver.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "Pears",
+          "image": "/images/body soap/imported/pears_uk.png",
+          "tags": ["UK"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

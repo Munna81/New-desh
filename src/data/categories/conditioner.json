@@ -1,0 +1,140 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "স্কিন ক্যাফে",
+          "image": "/images/conditioner/local/Skin_Cafe_Silky_Tresses_Moisturizing_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট",
+          "image": "/images/conditioner/local/parachute_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "হারবাল এসেন্স",
+          "image": "/images/conditioner/imported/Herbal_Essences_Conditoner_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লরিয়াল এলভাইভ",
+          "image": "/images/conditioner/imported/LOreal_Elvive_Full_Resist_Anti_Breakage_Fragile_Hair_Conditioner_france.png",
+          "tags": ["France", "Anti Breakage"]
+        },
+        {
+          "name": "সানসিল্ক",
+          "image": "/images/conditioner/imported/Sunslik_Conditioner_thailand.png",
+          "tags": ["Thailand"]
+        },
+        {
+          "name": "বিউটি ফর্মুলা",
+          "image": "/images/conditioner/imported/beauty_formula_tea_tree_australia.png",
+          "tags": ["Australia", "Tea Tree"]
+        },
+        {
+          "name": "ডাভ",
+          "image": "/images/conditioner/imported/dove.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "মামা আর্থ",
+          "image": "/images/conditioner/imported/mama_eath_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ওজিএক্স",
+          "image": "/images/conditioner/imported/ogx_vanilla_chai_spice_conditioner_800.png",
+          "tags": ["USA", "Vanilla Chai"]
+        },
+        {
+          "name": "ট্রেসেম",
+          "image": "/images/conditioner/imported/treseme.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "এক্সএইচসি",
+          "image": "/images/conditioner/imported/xhc_tea_tree_uk.png",
+          "tags": ["UK", "Tea Tree"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Skin Cafe",
+          "image": "/images/conditioner/local/Skin_Cafe_Silky_Tresses_Moisturizing_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute",
+          "image": "/images/conditioner/local/parachute_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Herbal Essences",
+          "image": "/images/conditioner/imported/Herbal_Essences_Conditoner_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Loreal Elvive",
+          "image": "/images/conditioner/imported/LOreal_Elvive_Full_Resist_Anti_Breakage_Fragile_Hair_Conditioner_france.png",
+          "tags": ["France", "Anti Breakage"]
+        },
+        {
+          "name": "Sunsilk",
+          "image": "/images/conditioner/imported/Sunslik_Conditioner_thailand.png",
+          "tags": ["Thailand"]
+        },
+        {
+          "name": "Beauty Formula",
+          "image": "/images/conditioner/imported/beauty_formula_tea_tree_australia.png",
+          "tags": ["Australia", "Tea Tree"]
+        },
+        {
+          "name": "Dove",
+          "image": "/images/conditioner/imported/dove.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "Mama Earth",
+          "image": "/images/conditioner/imported/mama_eath_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "OGX",
+          "image": "/images/conditioner/imported/ogx_vanilla_chai_spice_conditioner_800.png",
+          "tags": ["USA", "Vanilla Chai"]
+        },
+        {
+          "name": "Tresemme",
+          "image": "/images/conditioner/imported/treseme.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "XHC",
+          "image": "/images/conditioner/imported/xhc_tea_tree_uk.png",
+          "tags": ["UK", "Tea Tree"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

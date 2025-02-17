@@ -1,0 +1,170 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "অল টাইম প্রিমিয়াম বেক রাস্ক",
+          "image": "/images/biscuit/local/all_time_premium_bake_rusk_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ড্যান কেক ওটস কুকিজ",
+          "image": "/images/biscuit/local/dan_cake_oats_cookies_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ড্যানিশ ডোরিও চকোলেট স্যান্ডউইচ",
+          "image": "/images/biscuit/local/danish_doreo_black_chocolate_sandwich_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ডেক্কো মেরি ক্লাসিক",
+          "image": "/images/biscuit/local/dekko_marie_classic_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "গোল্ডমার্ক ভেজিটেবল ক্র্যাকার",
+          "image": "/images/biscuit/local/goldmark_6_to_9_vegetables_cracker_biscuitbd.png",
+          "tags": []
+        },
+        {
+          "name": "হক মিস্টার কুকি বাটার কোকোনাট",
+          "image": "/images/biscuit/local/haque_mr_cookie_butter_coconut_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ইফাদ বাটার ডিলাইট",
+          "image": "/images/biscuit/local/ifad_butter_delight_biscuitbd.png",
+          "tags": []
+        },
+        {
+          "name": "কিডো বাটার টোস্ট",
+          "image": "/images/biscuit/local/kiddo_butter_toast_biscuitsbd.png",
+          "tags": []
+        },
+        {
+          "name": "কিশওয়ান ফিওরে বাটার কুকি",
+          "image": "/images/biscuit/local/kishwan_fiore_butter_cookiebd.png",
+          "tags": []
+        },
+        {
+          "name": "প্রাণ অল টাইম কুকিজ",
+          "image": "/images/biscuit/local/pran_all_time_cookies_biscuit_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "মেইজি ক্র্যাকারস",
+          "image": "/images/biscuit/imported/meiji_crackersSingapore.png",
+          "tags": ["Singapore"]
+        },
+        {
+          "name": "ওরিও অরিজিনাল ক্রিম",
+          "image": "/images/biscuit/imported/oreo_original_cream_biscuit__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "পার্লে হাইড অ্যান্ড সিক",
+          "image": "/images/biscuit/imported/parle_hide_and_seek_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ওয়াকারস বাটার শর্টব্রেড",
+          "image": "/images/biscuit/imported/walkerp__butter_shortbread_biscuitScotland.png",
+          "tags": ["Scotland", "Shortbread"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "All Time Premium Bake Rusk",
+          "image": "/images/biscuit/local/all_time_premium_bake_rusk_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Dan Cake Oats Cookies",
+          "image": "/images/biscuit/local/dan_cake_oats_cookies_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Danish Doreo Chocolate Sandwich",
+          "image": "/images/biscuit/local/danish_doreo_black_chocolate_sandwich_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Dekko Marie Classic",
+          "image": "/images/biscuit/local/dekko_marie_classic_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Goldmark Vegetable Cracker",
+          "image": "/images/biscuit/local/goldmark_6_to_9_vegetables_cracker_biscuitbd.png",
+          "tags": []
+        },
+        {
+          "name": "Haque Mr Cookie Butter Coconut",
+          "image": "/images/biscuit/local/haque_mr_cookie_butter_coconut_biscuit_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Ifad Butter Delight",
+          "image": "/images/biscuit/local/ifad_butter_delight_biscuitbd.png",
+          "tags": []
+        },
+        {
+          "name": "Kiddo Butter Toast",
+          "image": "/images/biscuit/local/kiddo_butter_toast_biscuitsbd.png",
+          "tags": []
+        },
+        {
+          "name": "Kishwan Fiore Butter Cookie",
+          "image": "/images/biscuit/local/kishwan_fiore_butter_cookiebd.png",
+          "tags": []
+        },
+        {
+          "name": "Pran All Time Cookies",
+          "image": "/images/biscuit/local/pran_all_time_cookies_biscuit_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Meiji Crackers",
+          "image": "/images/biscuit/imported/meiji_crackersSingapore.png",
+          "tags": ["Singapore"]
+        },
+        {
+          "name": "Oreo Original Cream",
+          "image": "/images/biscuit/imported/oreo_original_cream_biscuit__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Parle Hide & Seek",
+          "image": "/images/biscuit/imported/parle_hide_and_seek_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Walkers Butter Shortbread",
+          "image": "/images/biscuit/imported/walkerp__butter_shortbread_biscuitScotland.png",
+          "tags": ["Scotland", "Shortbread"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

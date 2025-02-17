@@ -1,0 +1,182 @@
+{
+  "commodities": [
+    {
+      "commodity_name": "Live Animals and Animal Products",
+      "april_june_amount": 176.6,
+      "april_june_share": 1.1,
+      "july_sept_amount": 129.0,
+      "july_sept_share": 0.9,
+      "growth": -26.9
+    },
+    {
+      "commodity_name": "Vegetable Products",
+      "april_june_amount": 1523.1,
+      "april_june_share": 9.6,
+      "july_sept_amount": 1172.0,
+      "july_sept_share": 7.8,
+      "growth": -23.1
+    },
+    {
+      "commodity_name": "Animal or Vegetable Fats and Oils",
+      "april_june_amount": 587.4,
+      "april_june_share": 3.7,
+      "july_sept_amount": 438.2,
+      "july_sept_share": 2.9,
+      "growth": -25.4
+    },
+    {
+      "commodity_name": "Prepared Foodstuffs, Beverages, Spirits, and Vinegar",
+      "april_june_amount": 676.6,
+      "april_june_share": 4.3,
+      "july_sept_amount": 503.5,
+      "july_sept_share": 3.3,
+      "growth": -25.6
+    },
+    {
+      "commodity_name": "Mineral Products",
+      "april_june_amount": 3020.2,
+      "april_june_share": 19.0,
+      "july_sept_amount": 2906.9,
+      "july_sept_share": 19.3,
+      "growth": -3.8
+    },
+    {
+      "commodity_name": "Products of the Chemical or Allied Industries",
+      "april_june_amount": 1288.6,
+      "april_june_share": 8.1,
+      "july_sept_amount": 1533.8,
+      "july_sept_share": 10.2,
+      "growth": 19.0
+    },
+    {
+      "commodity_name": "Plastics and Rubber Articles",
+      "april_june_amount": 748.4,
+      "april_june_share": 4.7,
+      "july_sept_amount": 705.5,
+      "july_sept_share": 4.7,
+      "growth": -5.7
+    },
+    {
+      "commodity_name": "Raw Hides and Skins, Leather and Articles Thereof",
+      "april_june_amount": 38.2,
+      "april_june_share": 0.2,
+      "july_sept_amount": 42.7,
+      "july_sept_share": 0.3,
+      "growth": 11.8
+    },
+    {
+      "commodity_name": "Wood and Articles of Wood",
+      "april_june_amount": 20.9,
+      "april_june_share": 0.1,
+      "july_sept_amount": 21.9,
+      "july_sept_share": 0.1,
+      "growth": 4.5
+    },
+    {
+      "commodity_name": "Paper and Articles Thereof",
+      "april_june_amount": 228.1,
+      "april_june_share": 1.4,
+      "july_sept_amount": 213.0,
+      "july_sept_share": 1.4,
+      "growth": -6.6
+    },
+    {
+      "commodity_name": "Textiles and Textile Articles",
+      "april_june_amount": 3748.3,
+      "april_june_share": 23.6,
+      "july_sept_amount": 3795.7,
+      "july_sept_share": 25.2,
+      "growth": 1.3
+    },
+    {
+      "commodity_name": "Footwear and Headgear",
+      "april_june_amount": 52.9,
+      "april_june_share": 0.3,
+      "july_sept_amount": 60.9,
+      "july_sept_share": 0.4,
+      "growth": 15.2
+    },
+    {
+      "commodity_name": "Articles of Stone, Ceramic, and Glassware",
+      "april_june_amount": 59.8,
+      "april_june_share": 0.4,
+      "july_sept_amount": 46.8,
+      "july_sept_share": 0.3,
+      "growth": -21.8
+    },
+    {
+      "commodity_name": "Precious Stones and Metals",
+      "april_june_amount": 0.9,
+      "april_june_share": 0.0,
+      "july_sept_amount": 0.7,
+      "july_sept_share": 0.0,
+      "growth": -19.7
+    },
+    {
+      "commodity_name": "Base Metals and Articles Thereof",
+      "april_june_amount": 1303.5,
+      "april_june_share": 8.2,
+      "july_sept_amount": 1241.5,
+      "july_sept_share": 8.2,
+      "growth": -4.8
+    },
+    {
+      "commodity_name": "Machinery and Mechanical Appliances",
+      "april_june_amount": 1672.1,
+      "april_june_share": 10.5,
+      "july_sept_amount": 1613.3,
+      "july_sept_share": 10.7,
+      "growth": -3.5
+    },
+    {
+      "commodity_name": "Vehicles and Transport Equipment",
+      "april_june_amount": 509.6,
+      "april_june_share": 3.2,
+      "july_sept_amount": 363.4,
+      "july_sept_share": 2.4,
+      "growth": -28.7
+    },
+    {
+      "commodity_name": "Optical, Medical, and Measuring Instruments",
+      "april_june_amount": 128.9,
+      "april_june_share": 0.8,
+      "july_sept_amount": 126.7,
+      "july_sept_share": 0.8,
+      "growth": -1.7
+    },
+    {
+      "commodity_name": "Arms and Ammunition",
+      "april_june_amount": 16.3,
+      "april_june_share": 0.1,
+      "july_sept_amount": 16.1,
+      "july_sept_share": 0.1,
+      "growth": -1.2
+    },
+    {
+      "commodity_name": "Miscellaneous Manufactured Articles",
+      "april_june_amount": 112.4,
+      "april_june_share": 0.7,
+      "july_sept_amount": 130.4,
+      "july_sept_share": 0.9,
+      "growth": 16.1
+    },
+    {
+      "commodity_name": "Works of Art and Antiques",
+      "april_june_amount": 0.4,
+      "april_june_share": 0.0,
+      "july_sept_amount": 2.5,
+      "july_sept_share": 0.0,
+      "growth": 466.0
+    }
+  ],
+  "totals": {
+    "april_june_amount": 15941.1,
+    "july_sept_amount": 15094.3,
+    "growth": -5.3
+  },
+  "epz": {
+    "april_june_amount": 680.1,
+    "july_sept_amount": 778.4,
+    "growth": 14.5
+  }
+}

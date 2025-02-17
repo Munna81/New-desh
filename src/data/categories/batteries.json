@@ -1,0 +1,90 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "অলিম্পিক গোল্ড",
+          "image": "/images/batteries/local/olympic_gold_heavy_duty_aa_battery_bd.png",
+          "tags": []
+        },
+        {
+          "name": "অলিম্পিক",
+          "image": "/images/batteries/local/olympic_heavy_duty_aaa_batterybd.png",
+          "tags": []
+        },
+        {
+          "name": "সানলাইট",
+          "image": "/images/batteries/local/sunlite_heavy_duty_aaa_batterybd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "আলকালাইন",
+          "image": "/images/batteries/imported/alkaline_battery_aaa_china.png",
+          "tags": ["China", "AAA"]
+        },
+        {
+          "name": "ম্যাক্সেল",
+          "image": "/images/batteries/imported/maxell_alkaline_battery_indonesia__china.png",
+          "tags": ["Indonesia", "China", "Alkaline"]
+        },
+        {
+          "name": "সনি",
+          "image": "/images/batteries/imported/sony_aa_alkaline_batterieschina.png",
+          "tags": ["China", "AA", "Alkaline"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Olympic Gold",
+          "image": "/images/batteries/local/olympic_gold_heavy_duty_aa_battery_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Olympic",
+          "image": "/images/batteries/local/olympic_heavy_duty_aaa_batterybd.png",
+          "tags": []
+        },
+        {
+          "name": "Sunlite",
+          "image": "/images/batteries/local/sunlite_heavy_duty_aaa_batterybd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Alkaline",
+          "image": "/images/batteries/imported/alkaline_battery_aaa_china.png",
+          "tags": ["China", "AAA"]
+        },
+        {
+          "name": "Maxell",
+          "image": "/images/batteries/imported/maxell_alkaline_battery_indonesia__china.png",
+          "tags": ["Indonesia", "China", "Alkaline"]
+        },
+        {
+          "name": "Sony",
+          "image": "/images/batteries/imported/sony_aa_alkaline_batterieschina.png",
+          "tags": ["China", "AA", "Alkaline"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

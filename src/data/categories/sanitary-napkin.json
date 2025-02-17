@@ -1,0 +1,160 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ফ্রিডম",
+          "image": "/images/sanitary napkin/local/freedombd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ অনন্যা",
+          "image": "/images/sanitary napkin/local/fresh_anonnabd.png",
+          "tags": []
+        },
+        {
+          "name": "জয়া",
+          "image": "/images/sanitary napkin/local/joyabd.png",
+          "tags": []
+        },
+        {
+          "name": "মোনালিসা",
+          "image": "/images/sanitary napkin/local/monalisabd.png",
+          "tags": []
+        },
+        {
+          "name": "নীলা",
+          "image": "/images/sanitary napkin/local/neelabd.png",
+          "tags": []
+        },
+        {
+          "name": "সেনোরা",
+          "image": "/images/sanitary napkin/local/senora_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সেনোরা বায়ো",
+          "image": "/images/sanitary napkin/local/senora_bio_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সখী",
+          "image": "/images/sanitary napkin/local/sokhi_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্টে সেফ",
+          "image": "/images/sanitary napkin/local/staysafebd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "অলওয়েজ",
+          "image": "/images/sanitary napkin/imported/always_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "সফটি",
+          "image": "/images/sanitary napkin/imported/softie_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "সফি",
+          "image": "/images/sanitary napkin/imported/sofy_saudi_arabia.png",
+          "tags": ["Saudi Arabia"]
+        },
+        {
+          "name": "হুইসপার",
+          "image": "/images/sanitary napkin/imported/whisper_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Freedom",
+          "image": "/images/sanitary napkin/local/freedombd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh Anonna",
+          "image": "/images/sanitary napkin/local/fresh_anonnabd.png",
+          "tags": []
+        },
+        {
+          "name": "Joya",
+          "image": "/images/sanitary napkin/local/joyabd.png",
+          "tags": []
+        },
+        {
+          "name": "Monalisa",
+          "image": "/images/sanitary napkin/local/monalisabd.png",
+          "tags": []
+        },
+        {
+          "name": "Neela",
+          "image": "/images/sanitary napkin/local/neelabd.png",
+          "tags": []
+        },
+        {
+          "name": "Senora",
+          "image": "/images/sanitary napkin/local/senora_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Senora Bio",
+          "image": "/images/sanitary napkin/local/senora_bio_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Sokhi",
+          "image": "/images/sanitary napkin/local/sokhi_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Stay Safe",
+          "image": "/images/sanitary napkin/local/staysafebd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Always",
+          "image": "/images/sanitary napkin/imported/always_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Softie",
+          "image": "/images/sanitary napkin/imported/softie_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Sofy",
+          "image": "/images/sanitary napkin/imported/sofy_saudi_arabia.png",
+          "tags": ["Saudi Arabia"]
+        },
+        {
+          "name": "Whisper",
+          "image": "/images/sanitary napkin/imported/whisper_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

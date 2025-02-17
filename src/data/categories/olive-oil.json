@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "গ্রীন হারভেস্ট",
+          "image": "/images/olive oil/local/green_harvest_bd.png",
+          "tags": []
+        },
+        {
+          "name": "জয়তুন তেল",
+          "image": "/images/olive oil/local/joytun_tel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল অলিভ",
+          "image": "/images/olive oil/local/meril_olive_oil_tin_jar_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "অ্যাম্বাসাডর স্প্যানিশ",
+          "image": "/images/olive oil/imported/ambassador_spanish_olive_oil_spain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "বরগেস পোমেস",
+          "image": "/images/olive oil/imported/borges_pomace_olive_oil_spain.png",
+          "tags": ["Spain", "Pomace"]
+        },
+        {
+          "name": "ক্লারিস পোমেস",
+          "image": "/images/olive oil/imported/clariss_olive_oil_pomace_glass_bottle_spain.png",
+          "tags": ["Spain", "Pomace"]
+        },
+        {
+          "name": "লা এসপানোলা পিউর",
+          "image": "/images/olive oil/imported/la_espanola_pure_olive_oil_spain.png",
+          "tags": ["Spain", "Pure"]
+        },
+        {
+          "name": "লা এসপোলা",
+          "image": "/images/olive oil/imported/la_espola_spain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "লুসি",
+          "image": "/images/olive oil/imported/lucy_olive_oilspain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "অলিও এক্সট্রা ভার্জিন",
+          "image": "/images/olive oil/imported/olio_orolio_extra_virgin_olive_oil_italy.png",
+          "tags": ["Italy", "Extra Virgin"]
+        },
+        {
+          "name": "অলিতালিয়া",
+          "image": "/images/olive oil/imported/olitalia_italian_olive_oil.png",
+          "tags": ["Italy"]
+        },
+        {
+          "name": "স্প্যান অলিভা",
+          "image": "/images/olive oil/imported/span_oliva.png",
+          "tags": ["Spain"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Green Harvest",
+          "image": "/images/olive oil/local/green_harvest_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Joytun Tel",
+          "image": "/images/olive oil/local/joytun_tel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Olive",
+          "image": "/images/olive oil/local/meril_olive_oil_tin_jar_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Ambassador Spanish",
+          "image": "/images/olive oil/imported/ambassador_spanish_olive_oil_spain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "Borges Pomace",
+          "image": "/images/olive oil/imported/borges_pomace_olive_oil_spain.png",
+          "tags": ["Spain", "Pomace"]
+        },
+        {
+          "name": "Clariss Pomace",
+          "image": "/images/olive oil/imported/clariss_olive_oil_pomace_glass_bottle_spain.png",
+          "tags": ["Spain", "Pomace"]
+        },
+        {
+          "name": "La Espanola Pure",
+          "image": "/images/olive oil/imported/la_espanola_pure_olive_oil_spain.png",
+          "tags": ["Spain", "Pure"]
+        },
+        {
+          "name": "La Espola",
+          "image": "/images/olive oil/imported/la_espola_spain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "Lucy",
+          "image": "/images/olive oil/imported/lucy_olive_oilspain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "Olio Extra Virgin",
+          "image": "/images/olive oil/imported/olio_orolio_extra_virgin_olive_oil_italy.png",
+          "tags": ["Italy", "Extra Virgin"]
+        },
+        {
+          "name": "Olitalia",
+          "image": "/images/olive oil/imported/olitalia_italian_olive_oil.png",
+          "tags": ["Italy"]
+        },
+        {
+          "name": "Span Oliva",
+          "image": "/images/olive oil/imported/span_oliva.png",
+          "tags": ["Spain"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

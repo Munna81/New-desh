@@ -1,0 +1,210 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ক্লেমন",
+          "image": "/images/soft drinks/local/clemon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফান্টা অরেঞ্জ",
+          "image": "/images/soft drinks/local/fanta_orange_flavored_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ কোলা",
+          "image": "/images/soft drinks/local/fresh_cola_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ আপ",
+          "image": "/images/soft drinks/local/fresh_upbd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রুটিকা আম",
+          "image": "/images/soft drinks/local/frutika_mango_juice_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মোজো",
+          "image": "/images/soft drinks/local/mojo__bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্রাণ ড্রিঙ্কো লিচু",
+          "image": "/images/soft drinks/local/pran_drinko_litchi_juice_bd.png",
+          "tags": []
+        },
+        {
+          "name": "আরসি জিরা পানি",
+          "image": "/images/soft drinks/local/rc_jeera_pani_bd.png",
+          "tags": []
+        },
+        {
+          "name": "আরসি কিউ লেমন",
+          "image": "/images/soft drinks/local/rc_q_lemon_pet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্পীড",
+          "image": "/images/soft drinks/local/speed_can_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "সেভেন আপ",
+          "image": "/images/soft drinks/imported/7_up_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "কোকা কোলা",
+          "image": "/images/soft drinks/imported/coca_cola_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "মিরিন্ডা অরেঞ্জ",
+          "image": "/images/soft drinks/imported/mirinda_orangethailand.png",
+          "tags": ["Thailand", "Orange"]
+        },
+        {
+          "name": "মাউন্টেন ডিউ",
+          "image": "/images/soft drinks/imported/mountain_dew_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "নিউট্রিলাইফ আপেল",
+          "image": "/images/soft drinks/imported/nutrilife_apple_juice_bhutan.png",
+          "tags": ["Bhutan", "Apple"]
+        },
+        {
+          "name": "পেপসি",
+          "image": "/images/soft drinks/imported/pepsi_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "স্প্রাইট",
+          "image": "/images/soft drinks/imported/sprite_germany.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "টুইং অরেঞ্জ",
+          "image": "/images/soft drinks/imported/twing_orange_drink_us.png",
+          "tags": ["USA", "Orange"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Clemon",
+          "image": "/images/soft drinks/local/clemon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fanta Orange",
+          "image": "/images/soft drinks/local/fanta_orange_flavored_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh Cola",
+          "image": "/images/soft drinks/local/fresh_cola_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh Up",
+          "image": "/images/soft drinks/local/fresh_upbd.png",
+          "tags": []
+        },
+        {
+          "name": "Frutika Mango",
+          "image": "/images/soft drinks/local/frutika_mango_juice_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Mojo",
+          "image": "/images/soft drinks/local/mojo__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Pran Drinko Litchi",
+          "image": "/images/soft drinks/local/pran_drinko_litchi_juice_bd.png",
+          "tags": []
+        },
+        {
+          "name": "RC Jeera Pani",
+          "image": "/images/soft drinks/local/rc_jeera_pani_bd.png",
+          "tags": []
+        },
+        {
+          "name": "RC Q Lemon",
+          "image": "/images/soft drinks/local/rc_q_lemon_pet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Speed",
+          "image": "/images/soft drinks/local/speed_can_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "7 Up",
+          "image": "/images/soft drinks/imported/7_up_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Coca Cola",
+          "image": "/images/soft drinks/imported/coca_cola_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Mirinda Orange",
+          "image": "/images/soft drinks/imported/mirinda_orangethailand.png",
+          "tags": ["Thailand", "Orange"]
+        },
+        {
+          "name": "Mountain Dew",
+          "image": "/images/soft drinks/imported/mountain_dew_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Nutrilife Apple",
+          "image": "/images/soft drinks/imported/nutrilife_apple_juice_bhutan.png",
+          "tags": ["Bhutan", "Apple"]
+        },
+        {
+          "name": "Pepsi",
+          "image": "/images/soft drinks/imported/pepsi_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Sprite",
+          "image": "/images/soft drinks/imported/sprite_germany.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "Twing Orange",
+          "image": "/images/soft drinks/imported/twing_orange_drink_us.png",
+          "tags": ["USA", "Orange"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

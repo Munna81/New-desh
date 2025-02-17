@@ -1,0 +1,220 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "এসিআই সুপ্রিম অ্যান্টিব্যাকটেরিয়াল",
+          "image": "/images/laundry/local/aci_supreme_antibacterial_detergent_powderbd.png",
+          "tags": [ "Antibacterial"]
+        },
+        {
+          "name": "চাকা",
+          "image": "/images/laundry/local/chaka_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফাস্ট ওয়াশ",
+          "image": "/images/laundry/local/fast_wash_bd.png",
+          "tags": []
+        },
+        {
+          "name": "জেট",
+          "image": "/images/laundry/local/jet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কেয়া",
+          "image": "/images/laundry/local/keyabd.png",
+          "tags": []
+        },
+        {
+          "name": "মিনিস্টার",
+          "image": "/images/laundry/local/minister_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রিন অ্যাডভান্সড",
+          "image": "/images/laundry/local/rin_advanced_detergent_powder_free_surf_excel_powder_bd.png",
+          "tags": [ "Advanced"]
+        },
+        {
+          "name": "টিবেট",
+          "image": "/images/laundry/local/tibbet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টিবেট রোজ লেমন",
+          "image": "/images/laundry/local/tibet_rose_lemon_detergent_powdebd.png",
+          "tags": [ "Rose", "Lemon"]
+        },
+        {
+          "name": "হুইল ২ ইন ১",
+          "image": "/images/laundry/local/wheel_washing_powder_2_in_1_clean_fresh_free_laundry_bar_bd.png",
+          "tags": [ "2-in-1"]
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "এরিয়েল ম্যাটিক লিকুইড",
+          "image": "/images/laundry/imported/ariel_matic_liquid_detergent_top_loadindia.png",
+          "tags": ["India", "Liquid", "Top Load"]
+        },
+        {
+          "name": "এরিয়েল",
+          "image": "/images/laundry/imported/arielindia.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ব্রিজ",
+          "image": "/images/laundry/imported/breezeMalaysia.png",
+          "tags": ["Malaysia"]
+        },
+        {
+          "name": "কোকোরেক্স ব্লিচ",
+          "image": "/images/laundry/imported/cocorex_bleach_colours_floral_fresh_malaysia.png",
+          "tags": ["Malaysia", "Bleach", "Floral"]
+        },
+        {
+          "name": "পারসিল গ্রিস রিমুভাল",
+          "image": "/images/laundry/imported/persil_grease_removal_pink_blush_.png",
+          "tags": ["Grease Removal"]
+        },
+        {
+          "name": "সার্ফ এক্সেল",
+          "image": "/images/laundry/imported/surf_excel_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "সার্ফ এক্সেল ম্যাটিক লিকুইড",
+          "image": "/images/laundry/imported/surf_excel_matic_liquid_detergent_top_load_india.png",
+          "tags": ["India", "Liquid", "Top Load"]
+        },
+        {
+          "name": "টাইড",
+          "image": "/images/laundry/imported/tide_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "ভ্যানিশ কালার সেফ",
+          "image": "/images/laundry/imported/vanish_colour_safe_detergent_booster_india.png",
+          "tags": ["India", "Color Safe", "Booster"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ACI Supreme Antibacterial",
+          "image": "/images/laundry/local/aci_supreme_antibacterial_detergent_powderbd.png",
+          "tags": [ "Antibacterial"]
+        },
+        {
+          "name": "Chaka",
+          "image": "/images/laundry/local/chaka_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fast Wash",
+          "image": "/images/laundry/local/fast_wash_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Jet",
+          "image": "/images/laundry/local/jet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Keya",
+          "image": "/images/laundry/local/keyabd.png",
+          "tags": []
+        },
+        {
+          "name": "Minister",
+          "image": "/images/laundry/local/minister_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Rin Advanced",
+          "image": "/images/laundry/local/rin_advanced_detergent_powder_free_surf_excel_powder_bd.png",
+          "tags": [ "Advanced"]
+        },
+        {
+          "name": "Tibet",
+          "image": "/images/laundry/local/tibbet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tibet Rose Lemon",
+          "image": "/images/laundry/local/tibet_rose_lemon_detergent_powdebd.png",
+          "tags": [ "Rose", "Lemon"]
+        },
+        {
+          "name": "Wheel 2 in 1",
+          "image": "/images/laundry/local/wheel_washing_powder_2_in_1_clean_fresh_free_laundry_bar_bd.png",
+          "tags": [ "2-in-1"]
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Ariel Matic Liquid",
+          "image": "/images/laundry/imported/ariel_matic_liquid_detergent_top_loadindia.png",
+          "tags": ["India", "Liquid", "Top Load"]
+        },
+        {
+          "name": "Ariel",
+          "image": "/images/laundry/imported/arielindia.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Breeze",
+          "image": "/images/laundry/imported/breezeMalaysia.png",
+          "tags": ["Malaysia"]
+        },
+        {
+          "name": "Cocorex Bleach",
+          "image": "/images/laundry/imported/cocorex_bleach_colours_floral_fresh_malaysia.png",
+          "tags": ["Malaysia", "Bleach", "Floral"]
+        },
+        {
+          "name": "Persil Grease Removal",
+          "image": "/images/laundry/imported/persil_grease_removal_pink_blush_.png",
+          "tags": ["Grease Removal"]
+        },
+        {
+          "name": "Surf Excel",
+          "image": "/images/laundry/imported/surf_excel_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Surf Excel Matic Liquid",
+          "image": "/images/laundry/imported/surf_excel_matic_liquid_detergent_top_load_india.png",
+          "tags": ["India", "Liquid", "Top Load"]
+        },
+        {
+          "name": "Tide",
+          "image": "/images/laundry/imported/tide_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Vanish Color Safe",
+          "image": "/images/laundry/imported/vanish_colour_safe_detergent_booster_india.png",
+          "tags": ["India", "Color Safe", "Booster"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

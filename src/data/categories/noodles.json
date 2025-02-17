@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "এসিআই পিউর থাই চিলি চিকেন",
+          "image": "/images/noodles/local/aci_pure_thai_noodles_chilli_chicken_bd.png",
+          "tags": []
+        },
+        {
+          "name": "চপস্টিক দেশি মশলা",
+          "image": "/images/noodles/local/chopstick_deshi_masala_instant_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কোকোলা এগ নুডলস",
+          "image": "/images/noodles/local/cocola_egg_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ডুডলস মশলা টুইস্ট",
+          "image": "/images/noodles/local/doodles_instant_masala_twist_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ স্টিক এগ মশলা",
+          "image": "/images/noodles/local/fresh_stick_noodles_egg_masala_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কলসন এগ নুডলস",
+          "image": "/images/noodles/local/kolson_egg_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মিস্টার নুডলস কোরিয়ান স্পাইসি",
+          "image": "/images/noodles/local/mr_noodles_korean_super_spicy_bd.png",
+          "tags": []
+        },
+        {
+          "name": "পান্ডা চাইনিজ নুডলস",
+          "image": "/images/noodles/local/panda_authentic_chinese_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সাজিব তন্দুরি চিকেন",
+          "image": "/images/noodles/local/sajeeb_tandoori_chicken_noodlesbd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "মামা চিকেন",
+          "image": "/images/noodles/imported/mama_noodles_chicken_flavour_Thailand.png",
+          "tags": ["Thailand", "Chicken"]
+        },
+        {
+          "name": "ম্যাগি ২ মিনিট মশলা",
+          "image": "/images/noodles/imported/nestle_maggi_2_minute_masala_instant_noodlesindia.png",
+          "tags": ["India", "Masala", "2-Minute"]
+        },
+        {
+          "name": "সামইয়াং হট চিকেন চিজ",
+          "image": "/images/noodles/imported/samyang_hot_chicken_ramen_cheese_noodles_south_korea.png",
+          "tags": ["South Korea", "Hot Chicken", "Cheese"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ACI Pure Thai Chili Chicken",
+          "image": "/images/noodles/local/aci_pure_thai_noodles_chilli_chicken_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Chopstick Deshi Masala",
+          "image": "/images/noodles/local/chopstick_deshi_masala_instant_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Cocola Egg Noodles",
+          "image": "/images/noodles/local/cocola_egg_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Doodles Masala Twist",
+          "image": "/images/noodles/local/doodles_instant_masala_twist_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh Stick Egg Masala",
+          "image": "/images/noodles/local/fresh_stick_noodles_egg_masala_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Kolson Egg Noodles",
+          "image": "/images/noodles/local/kolson_egg_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Mr Noodles Korean Spicy",
+          "image": "/images/noodles/local/mr_noodles_korean_super_spicy_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Panda Chinese Noodles",
+          "image": "/images/noodles/local/panda_authentic_chinese_noodles_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Sajeeb Tandoori Chicken",
+          "image": "/images/noodles/local/sajeeb_tandoori_chicken_noodlesbd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Mama Chicken",
+          "image": "/images/noodles/imported/mama_noodles_chicken_flavour_Thailand.png",
+          "tags": ["Thailand", "Chicken"]
+        },
+        {
+          "name": "Maggi 2-Minute Masala",
+          "image": "/images/noodles/imported/nestle_maggi_2_minute_masala_instant_noodlesindia.png",
+          "tags": ["India", "Masala", "2-Minute"]
+        },
+        {
+          "name": "Samyang Hot Chicken Cheese",
+          "image": "/images/noodles/imported/samyang_hot_chicken_ramen_cheese_noodles_south_korea.png",
+          "tags": ["South Korea", "Hot Chicken", "Cheese"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

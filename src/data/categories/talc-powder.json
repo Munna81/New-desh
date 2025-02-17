@@ -1,0 +1,190 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "কিউট ফ্রেঞ্চ পারফিউমড",
+          "image": "/images/talc powder/local/cute_french_perfumed_talc_powder_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কুল",
+          "image": "/images/talc powder/local/kool_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল",
+          "image": "/images/talc powder/local/meril_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট",
+          "image": "/images/talc powder/local/parachute_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রিভাইভ অ্যাক্টিভ সান ব্লক",
+          "image": "/images/talc powder/local/revive_active_sun_block_powder_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টিবেট",
+          "image": "/images/talc powder/local/tibet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টিবেট লাক্সারি সান প্রোটেক্ট",
+          "image": "/images/talc powder/local/tibet_luxuary_sun_protect_talcum_powder_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "এনচ্যান্টার পারফিউমড চার্মিং",
+          "image": "/images/talc powder/imported/enchanteur_perfumed_talc_powder_charming_malaysia.png",
+          "tags": ["Malaysia", "Perfumed"]
+        },
+        {
+          "name": "হিমালয়া",
+          "image": "/images/talc powder/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "আইস কুল প্রিকলি হিট",
+          "image": "/images/talc powder/imported/ice_cool_prickly_heat_powder__india.png",
+          "tags": ["India", "Prickly Heat"]
+        },
+        {
+          "name": "জনসন",
+          "image": "/images/talc powder/imported/johnson_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "কোডোমো",
+          "image": "/images/talc powder/imported/kodomo_thailand.png",
+          "tags": ["Thailand"]
+        },
+        {
+          "name": "লাফজ",
+          "image": "/images/talc powder/imported/lafz_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "পন্ডস",
+          "image": "/images/talc powder/imported/pond_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "হোয়াইট টোন",
+          "image": "/images/talc powder/imported/white_tone_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ইয়ার্ডলি",
+          "image": "/images/talc powder/imported/yardley_uae.png",
+          "tags": ["UAE"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Cute French Perfumed",
+          "image": "/images/talc powder/local/cute_french_perfumed_talc_powder_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Kool",
+          "image": "/images/talc powder/local/kool_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril",
+          "image": "/images/talc powder/local/meril_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute",
+          "image": "/images/talc powder/local/parachute_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Revive Active Sun Block",
+          "image": "/images/talc powder/local/revive_active_sun_block_powder_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tibet",
+          "image": "/images/talc powder/local/tibet_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tibet Luxury Sun Protect",
+          "image": "/images/talc powder/local/tibet_luxuary_sun_protect_talcum_powder_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Enchanteur Perfumed Charming",
+          "image": "/images/talc powder/imported/enchanteur_perfumed_talc_powder_charming_malaysia.png",
+          "tags": ["Malaysia", "Perfumed"]
+        },
+        {
+          "name": "Himalaya",
+          "image": "/images/talc powder/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Ice Cool Prickly Heat",
+          "image": "/images/talc powder/imported/ice_cool_prickly_heat_powder__india.png",
+          "tags": ["India", "Prickly Heat"]
+        },
+        {
+          "name": "Johnson's",
+          "image": "/images/talc powder/imported/johnson_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Kodomo",
+          "image": "/images/talc powder/imported/kodomo_thailand.png",
+          "tags": ["Thailand"]
+        },
+        {
+          "name": "Lafz",
+          "image": "/images/talc powder/imported/lafz_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Ponds",
+          "image": "/images/talc powder/imported/pond_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "White Tone",
+          "image": "/images/talc powder/imported/white_tone_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Yardley",
+          "image": "/images/talc powder/imported/yardley_uae.png",
+          "tags": ["UAE"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

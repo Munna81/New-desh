@@ -1,0 +1,190 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "অ্যারং আর্থ",
+          "image": "/images/body wash/local/Arong_Earth_bd.png",
+          "tags": []
+        },
+        {
+          "name": "দিভাস সিক্রেট",
+          "image": "/images/body wash/local/Diva___s_Secret_Body_Cleanserbd.png",
+          "tags": []
+        },
+        {
+          "name": "রেইন শাওয়ার",
+          "image": "/images/body wash/local/Rain_Shower_Refreshing_Bath_and_Shower_Gel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ডেটল",
+          "image": "/images/body wash/local/dettol_aloe_vera_bd.png",
+          "tags": []
+        },
+        {
+          "name": "নিম শাওয়ার",
+          "image": "/images/body wash/local/neem_shower_gel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রাজকন্যা",
+          "image": "/images/body wash/local/rajkonna_white_glow_shower_gel_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "এনচ্যান্টার",
+          "image": "/images/body wash/imported/Enchanteur_Charming_Shower_Gel_Vietnam.png",
+          "tags": ["Vietnam", "Shower Gel"]
+        },
+        {
+          "name": "ফা",
+          "image": "/images/body wash/imported/Fa_Throwback_Moments_Travel_Love_Shower_Cream_greman.png",
+          "tags": ["Germany", "Shower Cream"]
+        },
+        {
+          "name": "ফারমাসি",
+          "image": "/images/body wash/imported/Farmasi_turkey.png",
+          "tags": ["Turkey"]
+        },
+        {
+          "name": "স্কিন ফুড",
+          "image": "/images/body wash/imported/Skin_Food_Lemon_Verbena_Body_Wash_south_korea.png",
+          "tags": ["South Korea", "Lemon Verbena"]
+        },
+        {
+          "name": "সেন্ট আইভস",
+          "image": "/images/body wash/imported/St_iveshydrating_usa.png",
+          "tags": ["USA", "Hydrating"]
+        },
+        {
+          "name": "লাক্স",
+          "image": "/images/body wash/imported/lux_body_wash_bright_camellia_thailand.png",
+          "tags": ["Thailand", "Camellia"]
+        },
+        {
+          "name": "নিউট্রোজেনা",
+          "image": "/images/body wash/imported/neutrogena_deep_clean_gel_wash_greece.png",
+          "tags": ["Greece", "Deep Clean"]
+        },
+        {
+          "name": "নিভিয়া",
+          "image": "/images/body wash/imported/nivea_female_shower_gel_lemongrass_oilGermany.png",
+          "tags": ["Germany", "Lemongrass"]
+        },
+        {
+          "name": "পালমোলিভ",
+          "image": "/images/body wash/imported/palmolive_aroma_sensations_sensual_shower_gel_thailand.png",
+          "tags": ["Thailand", "Aroma Sensations"]
+        },
+        {
+          "name": "দ্য বডি শপ",
+          "image": "/images/body wash/imported/tbs_body_wash_fuji_green_tea_shower_gel_usa.png",
+          "tags": ["USA", "Green Tea"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Arong Earth",
+          "image": "/images/body wash/local/Arong_Earth_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Divas Secret",
+          "image": "/images/body wash/local/Diva___s_Secret_Body_Cleanserbd.png",
+          "tags": []
+        },
+        {
+          "name": "Rain Shower",
+          "image": "/images/body wash/local/Rain_Shower_Refreshing_Bath_and_Shower_Gel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Dettol",
+          "image": "/images/body wash/local/dettol_aloe_vera_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Neem Shower",
+          "image": "/images/body wash/local/neem_shower_gel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Rajkonna",
+          "image": "/images/body wash/local/rajkonna_white_glow_shower_gel_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Enchanteur",
+          "image": "/images/body wash/imported/Enchanteur_Charming_Shower_Gel_Vietnam.png",
+          "tags": ["Vietnam", "Shower Gel"]
+        },
+        {
+          "name": "Fa",
+          "image": "/images/body wash/imported/Fa_Throwback_Moments_Travel_Love_Shower_Cream_greman.png",
+          "tags": ["Germany", "Shower Cream"]
+        },
+        {
+          "name": "Farmasi",
+          "image": "/images/body wash/imported/Farmasi_turkey.png",
+          "tags": ["Turkey"]
+        },
+        {
+          "name": "Skin Food",
+          "image": "/images/body wash/imported/Skin_Food_Lemon_Verbena_Body_Wash_south_korea.png",
+          "tags": ["South Korea", "Lemon Verbena"]
+        },
+        {
+          "name": "St. Ives",
+          "image": "/images/body wash/imported/St_iveshydrating_usa.png",
+          "tags": ["USA", "Hydrating"]
+        },
+        {
+          "name": "Lux",
+          "image": "/images/body wash/imported/lux_body_wash_bright_camellia_thailand.png",
+          "tags": ["Thailand", "Camellia"]
+        },
+        {
+          "name": "Neutrogena",
+          "image": "/images/body wash/imported/neutrogena_deep_clean_gel_wash_greece.png",
+          "tags": ["Greece", "Deep Clean"]
+        },
+        {
+          "name": "Nivea",
+          "image": "/images/body wash/imported/nivea_female_shower_gel_lemongrass_oilGermany.png",
+          "tags": ["Germany", "Lemongrass"]
+        },
+        {
+          "name": "Palmolive",
+          "image": "/images/body wash/imported/palmolive_aroma_sensations_sensual_shower_gel_thailand.png",
+          "tags": ["Thailand", "Aroma Sensations"]
+        },
+        {
+          "name": "The Body Shop",
+          "image": "/images/body wash/imported/tbs_body_wash_fuji_green_tea_shower_gel_usa.png",
+          "tags": ["USA", "Green Tea"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

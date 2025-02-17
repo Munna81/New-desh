@@ -1,0 +1,200 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "আকিজ ডেইলি ল্যাভেন্ডার",
+          "image": "/images/hand wash/local/Akij_Daily_Hand_Wash_Lavender__bd.png",
+          "tags": ["Lavender"]
+        },
+        {
+          "name": "আর্থ বিউটি চেরি",
+          "image": "/images/hand wash/local/Earth_Beauty_You_Purifying_Cherry_Hand_Wash_bd.png",
+            "tags": ["Cherry"]
+        },
+        {
+          "name": "অর্গানিকেয়ার লেমন",
+          "image": "/images/hand wash/local/Organikare_Lemon_Hand_Wash_bd.png",
+          "tags": ["Lemon"]
+        },
+        {
+          "name": "এসিআই সাভলন হার্বাল",
+          "image": "/images/hand wash/local/aci_savlon_herbal_iris_handwash_bd.png",
+          "tags": ["Herbal"]
+        },
+        {
+          "name": "ডেটল স্কিনকেয়ার",
+          "image": "/images/hand wash/local/dettol_handwash_skincare_liquid_bd.png",
+          "tags": ["Skincare"]
+        },
+        {
+          "name": "জার্মনিল",
+          "image": "/images/hand wash/local/germnil_handwash_bd.png",
+          "tags": []
+        },
+        {
+          "name": "লেট মি গ্লো অরেঞ্জ",
+          "image": "/images/hand wash/local/let_me_glow_orange_handwash_bd.png",
+          "tags": ["Orange"]
+        },
+        {
+          "name": "মেডিকার সেফ লাইফ",
+          "image": "/images/hand wash/local/mediker_safe_life_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সেপনিল এক্সট্রা মাইল্ড",
+          "image": "/images/hand wash/local/sepnil_extra_mild_hand_wash_bd.png",
+          "tags": ["Extra Mild"]
+        },
+        {
+          "name": "সেপটেক্স",
+          "image": "/images/hand wash/local/septex__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ডাভ কেয়ারিং",
+          "image": "/images/hand wash/imported/Dove_Caring_Hand_Wash_Saudi_Arabia_.png",
+          "tags": ["Saudi Arabia", "Caring"]
+        },
+        {
+          "name": "লাক্স রোজ এন্ড আলমন্ড",
+          "image": "/images/hand wash/imported/Lux_Handwash_Rose_and_Almond_Oil_india.png",
+          "tags": ["India", "Rose", "Almond"]
+        },
+        {
+          "name": "এক্সপেল টি ট্রি",
+          "image": "/images/hand wash/imported/Xpel_Tea_Tree_Antibacterial_uk.png",
+          "tags": ["UK", "Tea Tree", "Antibacterial"]
+        },
+        {
+          "name": "ইউসেরা স্ট্রবেরি",
+          "image": "/images/hand wash/imported/YUSERA_Hand_Wash_Strawbery_spain.png",
+          "tags": ["Spain", "Strawberry"]
+        },
+        {
+          "name": "গোদরেজ ম্যাজিক",
+          "image": "/images/hand wash/imported/godrej_magic_handwash_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লাইফবয় কেয়ার",
+          "image": "/images/hand wash/imported/lifebuoy_handwash_care_refill_uniliver.png",
+          "tags": ["Unilever", "Refill"]
+        },
+        {
+          "name": "সুপারড্রাগ অ্যান্টিব্যাকটেরিয়াল",
+          "image": "/images/hand wash/imported/superdrug_anti_bacterial_sensitive_hand_wash_uk.png",
+          "tags": ["UK", "Antibacterial", "Sensitive"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Akij Daily Lavender",
+          "image": "/images/hand wash/local/Akij_Daily_Hand_Wash_Lavender__bd.png",
+          "tags": ["Lavender"]
+        },
+        {
+          "name": "Earth Beauty Cherry",
+          "image": "/images/hand wash/local/Earth_Beauty_You_Purifying_Cherry_Hand_Wash_bd.png",
+          "tags": ["Cherry"]
+        },
+        {
+          "name": "Organikare Lemon",
+          "image": "/images/hand wash/local/Organikare_Lemon_Hand_Wash_bd.png",
+          "tags": ["Lemon"]
+        },
+        {
+          "name": "ACI Savlon Herbal",
+          "image": "/images/hand wash/local/aci_savlon_herbal_iris_handwash_bd.png",
+          "tags": ["Herbal"]
+        },
+        {
+          "name": "Dettol Skincare",
+          "image": "/images/hand wash/local/dettol_handwash_skincare_liquid_bd.png",
+          "tags": ["Skincare"]
+        },
+        {
+          "name": "Germnil",
+          "image": "/images/hand wash/local/germnil_handwash_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Let Me Glow Orange",
+          "image": "/images/hand wash/local/let_me_glow_orange_handwash_bd.png",
+          "tags": ["Orange"]
+        },
+        {
+          "name": "Mediker Safe Life",
+          "image": "/images/hand wash/local/mediker_safe_life_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Sepnil Extra Mild",
+          "image": "/images/hand wash/local/sepnil_extra_mild_hand_wash_bd.png",
+          "tags": ["Extra Mild"]
+        },
+        {
+          "name": "Septex",
+          "image": "/images/hand wash/local/septex__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Dove Caring",
+          "image": "/images/hand wash/imported/Dove_Caring_Hand_Wash_Saudi_Arabia_.png",
+          "tags": ["Saudi Arabia", "Caring"]
+        },
+        {
+          "name": "Lux Rose & Almond",
+          "image": "/images/hand wash/imported/Lux_Handwash_Rose_and_Almond_Oil_india.png",
+          "tags": ["India", "Rose", "Almond"]
+        },
+        {
+          "name": "Xpel Tea Tree",
+          "image": "/images/hand wash/imported/Xpel_Tea_Tree_Antibacterial_uk.png",
+          "tags": ["UK", "Tea Tree", "Antibacterial"]
+        },
+        {
+          "name": "Yusera Strawberry",
+          "image": "/images/hand wash/imported/YUSERA_Hand_Wash_Strawbery_spain.png",
+          "tags": ["Spain", "Strawberry"]
+        },
+        {
+          "name": "Godrej Magic",
+          "image": "/images/hand wash/imported/godrej_magic_handwash_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Lifebuoy Care",
+          "image": "/images/hand wash/imported/lifebuoy_handwash_care_refill_uniliver.png",
+          "tags": ["Unilever", "Refill"]
+        },
+        {
+          "name": "Superdrug Antibacterial",
+          "image": "/images/hand wash/imported/superdrug_anti_bacterial_sensitive_hand_wash_uk.png",
+          "tags": ["UK", "Antibacterial", "Sensitive"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

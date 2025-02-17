@@ -1,0 +1,200 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "দিভাস",
+          "image": "/images/body lotion/local/Divas_bd.png",
+          "tags": []
+        },
+        {
+          "name": "পন্ডস",
+          "image": "/images/body lotion/local/Ponds_Body_Lotion_uniliver_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্কিন ক্যাফে",
+          "image": "/images/body lotion/local/Skin_Cafe_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেয়াস",
+          "image": "/images/body lotion/local/freyas_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল বেবি",
+          "image": "/images/body lotion/local/meril_baby_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট স্কিনপিউর",
+          "image": "/images/body lotion/local/parachute_skinpure_skin_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রাজকন্যা",
+          "image": "/images/body lotion/local/rajkonna_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রিভাইভ",
+          "image": "/images/body lotion/local/revive_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্কিনপ্রো",
+          "image": "/images/body lotion/local/skinpro_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "সেরাভে",
+          "image": "/images/body lotion/imported/Cerave_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "বরোপ্লাস",
+          "image": "/images/body lotion/imported/boroplus__inda.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "এনচ্যান্টার",
+          "image": "/images/body lotion/imported/enchanteur_Malaysia.png",
+          "tags": ["Malaysia"]
+        },
+        {
+          "name": "হিমালয়া",
+          "image": "/images/body lotion/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "জনসনস বেবি",
+          "image": "/images/body lotion/imported/johnsons_baby_lotion_india.png",
+          "tags": ["India", "Baby Lotion"]
+        },
+        {
+          "name": "কোডোমো বেবি",
+          "image": "/images/body lotion/imported/kodomo_baby_lotion_thailand.png",
+          "tags": ["Thailand", "Baby Lotion"]
+        },
+        {
+          "name": "নিভিয়া",
+          "image": "/images/body lotion/imported/nivea_german.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "ভ্যাসলিন",
+          "image": "/images/body lotion/imported/vaseline_us.png",
+          "tags": ["USA"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Divas",
+          "image": "/images/body lotion/local/Divas_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Ponds",
+          "image": "/images/body lotion/local/Ponds_Body_Lotion_uniliver_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Skin Cafe",
+          "image": "/images/body lotion/local/Skin_Cafe_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Freyas",
+          "image": "/images/body lotion/local/freyas_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Baby",
+          "image": "/images/body lotion/local/meril_baby_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute Skinpure",
+          "image": "/images/body lotion/local/parachute_skinpure_skin_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Rajkonna",
+          "image": "/images/body lotion/local/rajkonna_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Revive",
+          "image": "/images/body lotion/local/revive_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Skinpro",
+          "image": "/images/body lotion/local/skinpro_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Cerave",
+          "image": "/images/body lotion/imported/Cerave_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Boroplus",
+          "image": "/images/body lotion/imported/boroplus__inda.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Enchanteur",
+          "image": "/images/body lotion/imported/enchanteur_Malaysia.png",
+          "tags": ["Malaysia"]
+        },
+        {
+          "name": "Himalaya",
+          "image": "/images/body lotion/imported/himalaya_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Johnsons Baby",
+          "image": "/images/body lotion/imported/johnsons_baby_lotion_india.png",
+          "tags": ["India", "Baby Lotion"]
+        },
+        {
+          "name": "Kodomo Baby",
+          "image": "/images/body lotion/imported/kodomo_baby_lotion_thailand.png",
+          "tags": ["Thailand", "Baby Lotion"]
+        },
+        {
+          "name": "Nivea",
+          "image": "/images/body lotion/imported/nivea_german.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "Vaseline",
+          "image": "/images/body lotion/imported/vaseline_us.png",
+          "tags": ["USA"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

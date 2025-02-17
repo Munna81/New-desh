@@ -1,0 +1,130 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "অরোরিন্স",
+          "image": "/images/mouthwash/local/Ororinse__bd.png",
+          "tags": []
+        },
+        {
+          "name": "বেনোস্টার",
+          "image": "/images/mouthwash/local/benoster_bd.png",
+          "tags": []
+        },
+        {
+          "name": "অরোস্টার প্লাস",
+          "image": "/images/mouthwash/local/orostar_plus_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "বিউটি ফর্মুলা হোয়াইটেনিং",
+          "image": "/images/mouthwash/imported/Beauty_Formulas_Whitening_Mouthwash_UK.png",
+          "tags": ["UK", "Whitening"]
+        },
+        {
+          "name": "কলগেট প্ল্যাক্স",
+          "image": "/images/mouthwash/imported/Colgate_Plax_Mouthwash__india.png",
+          "tags": ["India", "Plax"]
+        },
+        {
+          "name": "সিগনাল জেল লিকুইড",
+          "image": "/images/mouthwash/imported/Signal_Gel_Liquide_Active_M_UAE.png",
+          "tags": ["UAE", "Gel"]
+        },
+        {
+          "name": "লিস্টেরিন",
+          "image": "/images/mouthwash/imported/listerin_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লিস্টেরিন ফ্রেশবার্স্ট",
+          "image": "/images/mouthwash/imported/listerine_freshburst_liquid_mouthwash_india.png",
+          "tags": ["India", "Freshburst"]
+        },
+        {
+          "name": "ওরাল-বি",
+          "image": "/images/mouthwash/imported/oral_b_UAE.png",
+          "tags": ["UAE"]
+        },
+        {
+          "name": "প্রোডেন্টাল-বি কুল মিন্ট",
+          "image": "/images/mouthwash/imported/prodentalb_cool_mint_mouthwashMalaysia.png",
+          "tags": ["Malaysia", "Cool Mint"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Ororinse",
+          "image": "/images/mouthwash/local/Ororinse__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Benoster",
+          "image": "/images/mouthwash/local/benoster_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Orostar Plus",
+          "image": "/images/mouthwash/local/orostar_plus_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Beauty Formula Whitening",
+          "image": "/images/mouthwash/imported/Beauty_Formulas_Whitening_Mouthwash_UK.png",
+          "tags": ["UK", "Whitening"]
+        },
+        {
+          "name": "Colgate Plax",
+          "image": "/images/mouthwash/imported/Colgate_Plax_Mouthwash__india.png",
+          "tags": ["India", "Plax"]
+        },
+        {
+          "name": "Signal Gel Liquid",
+          "image": "/images/mouthwash/imported/Signal_Gel_Liquide_Active_M_UAE.png",
+          "tags": ["UAE", "Gel"]
+        },
+        {
+          "name": "Listerine",
+          "image": "/images/mouthwash/imported/listerin_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Listerine Freshburst",
+          "image": "/images/mouthwash/imported/listerine_freshburst_liquid_mouthwash_india.png",
+          "tags": ["India", "Freshburst"]
+        },
+        {
+          "name": "Oral-B",
+          "image": "/images/mouthwash/imported/oral_b_UAE.png",
+          "tags": ["UAE"]
+        },
+        {
+          "name": "ProDental-B Cool Mint",
+          "image": "/images/mouthwash/imported/prodentalb_cool_mint_mouthwashMalaysia.png",
+          "tags": ["Malaysia", "Cool Mint"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

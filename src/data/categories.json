@@ -1,0 +1,582 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Air Freshener",
+        "bn": "এয়ার ফ্রেশনার"
+      },
+      "slug": "air-freshener",
+      "image": "/images/categories/air-freshener.jpg",
+      "productCount": 0,
+      "tags": [
+        "air freshener",
+        "এয়ার ফ্রেশনার",
+        "air freshner"
+      ],
+      "categoryType": "Home & Kitchen"
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Anticeptic",
+        "bn": "জীবাণুনাশক"
+      },
+      "slug": "antiseptic",
+      "image": "/images/categories/antiseptic.jpg",
+      "productCount": 0,
+      "tags": [
+        "antiseptic",
+        "জীবাণুনাশক",
+        "antiseptic liquid"
+      ],
+      "categoryType": "Health & Wellness"
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Baby Wipes",
+        "bn": "বেবি ওয়াইপস"
+      },
+      "slug": "baby-wipes",
+      "image": "/images/categories/baby-wipes.jpg",
+      "productCount": 0,
+      "tags": [
+        "baby wipes",
+        "বেবি ওয়াইপস",
+        "wipes"
+      ],
+      "categoryType": "Baby Care"
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Batteries",
+        "bn": "ব্যাটারি"
+      },
+      "slug": "batteries",
+      "image": "/images/categories/batteries.jpg",
+      "productCount": 0,
+      "tags": [
+        "batteries",
+        "ব্যাটারি",
+        "battery"
+      ],
+      "categoryType": "Home & Kitchen"
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "Biscuit",
+        "bn": "বিস্কুট"
+      },
+      "slug": "biscuit",
+      "image": "/images/categories/biscuit.jpg",
+      "productCount": 0,
+      "tags": [
+        "biscuit",
+        "বিস্কুট",
+        "cookies"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Body Lotion",
+        "bn": "বডি লোশন"
+      },
+      "slug": "body-lotion",
+      "image": "/images/categories/body-lotion.jpg",
+      "productCount": 0,
+      "tags": [
+        "body lotion",
+        "বডি লোশন"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "Body Soap",
+        "bn": "সাবান"
+      },
+      "slug": "body-soap",
+      "image": "/images/categories/body-soap.jpg",
+      "productCount": 0,
+      "tags": [
+        "body soap",
+        "সাবান",
+        "soap",
+        "saban"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "Body Wash",
+        "bn": "বডি ওয়াশ"
+      },
+      "slug": "body-wash",
+      "image": "/images/categories/body-wash.jpg",
+      "productCount": 0,
+      "tags": [
+        "body wash",
+        "বডি ওয়াশ"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 10,
+      "name": {
+        "en": "Chocolate",
+        "bn": "চকলেট"
+      },
+      "slug": "chocolate",
+      "image": "/images/categories/chocolate.jpg",
+      "productCount": 0,
+      "tags": [
+        "chocolate",
+        "চকলেট"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 12,
+      "name": {
+        "en": "Conditioner",
+        "bn": "কন্ডিশনার"
+      },
+      "slug": "conditioner",
+      "image": "/images/categories/conditioner.jpg",
+      "productCount": 0,
+      "tags": [
+        "conditioner",
+        "কন্ডিশনার",
+        "hair conditioner"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 13,
+      "name": {
+        "en": "Diapers",
+        "bn": "ডায়াপার"
+      },
+      "slug": "diapers",
+      "image": "/images/categories/diapers.jpg",
+      "productCount": 0,
+      "tags": [
+        "diapers",
+        "ডায়াপার",
+        "baby diapers"
+      ],
+      "categoryType": "Baby Care"
+    },
+    {
+      "id": 14,
+      "name": {
+        "en": "Dishwash",
+        "bn": "ডিশওয়াশ"
+      },
+      "slug": "dishwash",
+      "image": "/images/categories/dishwash.jpg",
+      "productCount": 0,
+      "tags": [
+        "dishwash",
+        "ডিশওয়াশ",
+        "dish cleaner"
+      ],
+      "categoryType": "Cleaning Supplies"
+    },
+    {
+      "id": 15,
+      "name": {
+        "en": "Face Cream",
+        "bn": "ফেস ক্রিম"
+      },
+      "slug": "face-cream",
+      "image": "/images/categories/face-cream.jpg",
+      "productCount": 0,
+      "tags": [
+        "face cream",
+        "ফেস ক্রিম"
+      ],
+      "categoryType": "Beauty & MakeUp"
+    },
+    {
+      "id": 16,
+      "name": {
+        "en": "Facewash",
+        "bn": "ফেসওয়াশ"
+      },
+      "slug": "facewash",
+      "image": "/images/categories/facewash.jpg",
+      "productCount": 0,
+      "tags": [
+        "facewash",
+        "ফেসওয়াশ"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 17,
+      "name": {
+        "en": "Formula Milk",
+        "bn": "ফর্মুলা মিল্ক"
+      },
+      "slug": "formula-milk",
+      "image": "/images/categories/formula-milk.jpg",
+      "productCount": 0,
+      "tags": [
+        "formula milk",
+        "ফর্মুলা মিল্ক",
+        "baby milk"
+      ],
+      "categoryType": "Baby Care"
+    },
+    {
+      "id": 18,
+      "name": {
+        "en": "Hair Oil",
+        "bn": "হেয়ার অয়েল"
+      },
+      "slug": "hair-oil",
+      "image": "/images/categories/hair-oil.jpg",
+      "productCount": 0,
+      "tags": [
+        "hair oil",
+        "হেয়ার অয়েল"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 19,
+      "name": {
+        "en": "Hand Wash",
+        "bn": "হ্যান্ড ওয়াশ"
+      },
+      "slug": "hand-wash",
+      "image": "/images/categories/handwash.jpg",
+      "productCount": 0,
+      "tags": [
+        "hand wash",
+        "হ্যান্ড ওয়াশ"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 20,
+      "name": {
+        "en": "Juice",
+        "bn": "জুস"
+      },
+      "slug": "juice",
+      "image": "/images/categories/juice.jpg",
+      "productCount": 0,
+      "tags": [
+        "juice",
+        "জুস",
+        "fruit juice"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 21,
+      "name": {
+        "en": "Detergent",
+        "bn": "লন্ড্রি"
+      },
+      "slug": "detergent",
+      "image": "/images/categories/detergent.jpg",
+      "productCount": 0,
+      "tags": [
+        "laundry",
+        "লন্ড্রি",
+        "detergent"
+      ],
+      "categoryType": "Cleaning Supplies"
+    },
+    {
+      "id": 22,
+      "name": {
+        "en": "Milk Powder",
+        "bn": "মিল্ক পাউডার"
+      },
+      "slug": "milk-powder",
+      "image": "/images/categories/milkpowder.jpg",
+      "productCount": 0,
+      "tags": [
+        "milk powder",
+        "মিল্ক পাউডার",
+        "dairy"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 23,
+      "name": {
+        "en": "Mouthwash",
+        "bn": "মাউথওয়াশ"
+      },
+      "slug": "mouthwash",
+      "image": "/images/categories/mouthwash.jpg",
+      "productCount": 0,
+      "tags": [
+        "mouthwash",
+        "মাউথওয়াশ"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 24,
+      "name": {
+        "en": "Noodles",
+        "bn": "নুডলস"
+      },
+      "slug": "noodles",
+      "image": "/images/categories/noodles.jpg",
+      "productCount": 0,
+      "tags": [
+        "noodles",
+        "নুডলস"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 25,
+      "name": {
+        "en": "Cooking Oil",
+        "bn": "তেল"
+      },
+      "slug": "cooking-oil",
+      "image": "/images/categories/cooking-oil.jpg",
+      "productCount": 0,
+      "tags": [
+        "oil",
+        "তেল",
+        "cooking oil"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 26,
+      "name": {
+        "en": "Olive Oil",
+        "bn": "জৈতুন তেল"
+      },
+      "slug": "olive-oil",
+      "image": "/images/categories/olive-oil.jpg",
+      "productCount": 0,
+      "tags": [
+        "olive oil",
+        "জৈতুন তেল"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 27,
+      "name": {
+        "en": "Perfume",
+        "bn": "পারফিউম"
+      },
+      "slug": "perfume",
+      "image": "/images/categories/perfume.jpg",
+      "productCount": 0,
+      "tags": [
+        "perfume",
+        "পারফিউম",
+        "fragrance"
+      ],
+      "categoryType": "Beauty & MakeUp"
+    },
+    {
+      "id": 28,
+      "name": {
+        "en": "Petroleum Jelly",
+        "bn": "পেট্রোলিয়াম জেলি"
+      },
+      "slug": "petroleum-jelly",
+      "image": "/images/categories/petroleum-jelly.jpg",
+      "productCount": 0,
+      "tags": [
+        "petroleum jelly",
+        "পেট্রোলিয়াম জেলি",
+        "vaseline"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 29,
+      "name": {
+        "en": "Sanitary Napkin",
+        "bn": "স্যানিটারি ন্যাপকিন"
+      },
+      "slug": "sanitary-napkin",
+      "image": "/images/categories/sanitary-napkin.jpg",
+      "productCount": 0,
+      "tags": [
+        "sanitary napkin",
+        "স্যানিটারি ন্যাপকিন",
+        "pad"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 30,
+      "name": {
+        "en": "Shampoo",
+        "bn": "শ্যাম্পু"
+      },
+      "slug": "shampoo",
+      "image": "/images/categories/shampoo.jpg",
+      "productCount": 0,
+      "tags": [
+        "shampoo",
+        "শ্যাম্পু"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 31,
+      "name": {
+        "en": "Soft Drinks",
+        "bn": "সফট ড্রিংকস"
+      },
+      "slug": "soft-drinks",
+      "image": "/images/categories/soft-drinks.jpg",
+      "productCount": 0,
+      "tags": [
+        "soft drinks",
+        "সফট ড্রিংকস",
+        "beverages"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 32,
+      "name": {
+        "en": "Sunscreen",
+        "bn": "সানস্ক্রিন"
+      },
+      "slug": "sunscreen",
+      "image": "/images/categories/sunscreen.jpg",
+      "productCount": 0,
+      "tags": [
+        "sunscreen",
+        "সানস্ক্রিন",
+        "sun protection"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 33,
+      "name": {
+        "en": "Talc Powder",
+        "bn": "টালকম পাউডার"
+      },
+      "slug": "talc-powder",
+      "image": "/images/categories/talc-powder.jpg",
+      "productCount": 0,
+      "tags": [
+        "talc powder",
+        "টালকম পাউডার",
+        "powder"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 34,
+      "name": {
+        "en": "Tea",
+        "bn": "চা"
+      },
+      "slug": "tea",
+      "image": "/images/categories/tea.jpg",
+      "productCount": 0,
+      "tags": [
+        "tea",
+        "চা"
+      ],
+      "categoryType": "Food"
+    },
+    {
+      "id": 36,
+      "name": {
+        "en": "Toothpaste",
+        "bn": "টুথপেস্ট"
+      },
+      "slug": "toothpaste",
+      "image": "/images/categories/toothpaste.jpg",
+      "productCount": 0,
+      "tags": [
+        "toothpaste",
+        "টুথপেস্ট"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 37,
+      "name": {
+        "en": "Wall Paint",
+        "bn": "ওয়াল পেইন্ট"
+      },
+      "slug": "wall-paint",
+      "image": "/images/categories/wall-paint.jpg",
+      "productCount": 0,
+      "tags": [
+        "wall paint",
+        "ওয়াল পেইন্ট",
+        "paint"
+      ],
+      "categoryType": "Home & Kitchen"
+    },
+    {
+      "id": 38,
+      "name": {
+        "en": "Toothbrush",
+        "bn": "টুথব্রাশ"
+      },
+      "slug": "toothbrush",
+      "image": "/images/categories/toothbrush.jpg",
+      "productCount": 0,
+      "tags": [
+        "toothbrush",
+        "টুথব্রাশ",
+        "brush"
+      ],
+      "categoryType": "Personal Care"
+    },
+    {
+      "id": 39,
+      "name": {
+        "en": "Chips",
+        "bn": "চিপস"
+      },
+      "slug": "chips",
+      "image": "/images/categories/chips.jpg",
+      "productCount": 0,
+      "tags": [
+        "chips",
+        "চিপস"
+      ],
+      "categoryType": "Food"
+    }
+  ],
+  "categoryTypeOrder": [
+    "Food",
+    "Cleaning Supplies",
+    "Personal Care",
+    "Health & Wellness",
+    "Baby Care",
+    "Home & Kitchen",
+    "Stationery & Office",
+    "Pet Care",
+    "Toys & Sports",
+    "Beauty & MakeUp",
+    "Fashion & Lifestyle",
+    "Vehicle Essentials"
+  ]
+
+}

@@ -1,0 +1,160 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "এসিআই নিউট্রিলাইফ রাইস ব্রান",
+          "image": "/images/oil/local/aci_nutrilife_rice_bran_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফরচুন রাইস ব্রান",
+          "image": "/images/oil/local/fortune_fortified_rice_bran_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ সয়াবিন",
+          "image": "/images/oil/local/fresh_fortified_soyabean_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "জিনি সরিষার তেল",
+          "image": "/images/oil/local/gini_pure_mustard_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্রাণ সরিষার তেল",
+          "image": "/images/oil/local/pran_mustard_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "পুষ্টি সয়াবিন",
+          "image": "/images/oil/local/pusti_fortified_soyabean_oilbd.png",
+          "tags": []
+        },
+        {
+          "name": "রাঁধুনি সরিষার তেল",
+          "image": "/images/oil/local/radhuni_pure_mustard_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রূপচাঁদা সয়াবিন",
+          "image": "/images/oil/local/rupchanda_fortified_soyabean_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সেরা বাংলা ৬৪ সরিষার তেল",
+          "image": "/images/oil/local/shera_bangla_64_mustard_oilbd.png",
+          "tags": []
+        },
+        {
+          "name": "তীর সয়াবিন",
+          "image": "/images/oil/local/teer_fortified_soyabean_oilbd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ঘানি সরিষার তেল",
+          "image": "/images/oil/imported/ghani_mustard_oil_india.png",
+          "tags": ["India", "Mustard"]
+        },
+        {
+          "name": "কিংস সানফ্লাওয়ার",
+          "image": "/images/oil/imported/kings_sunflower_oil_india.png",
+          "tags": ["India", "Sunflower"]
+        },
+        {
+          "name": "অলিতালিয়া সানফ্লাওয়ার",
+          "image": "/images/oil/imported/olitalia_fortified_sunflower_oil_italy.png",
+          "tags": ["Italy", "Sunflower", "Fortified"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ACI Nutrilife Rice Bran",
+          "image": "/images/oil/local/aci_nutrilife_rice_bran_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fortune Rice Bran",
+          "image": "/images/oil/local/fortune_fortified_rice_bran_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh Soyabean",
+          "image": "/images/oil/local/fresh_fortified_soyabean_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Gini Mustard",
+          "image": "/images/oil/local/gini_pure_mustard_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Pran Mustard",
+          "image": "/images/oil/local/pran_mustard_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Pusti Soyabean",
+          "image": "/images/oil/local/pusti_fortified_soyabean_oilbd.png",
+          "tags": []
+        },
+        {
+          "name": "Radhuni Mustard",
+          "image": "/images/oil/local/radhuni_pure_mustard_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Rupchanda Soyabean",
+          "image": "/images/oil/local/rupchanda_fortified_soyabean_oil_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Shera Bangla 64 Mustard",
+          "image": "/images/oil/local/shera_bangla_64_mustard_oilbd.png",
+          "tags": []
+        },
+        {
+          "name": "Teer Soyabean",
+          "image": "/images/oil/local/teer_fortified_soyabean_oilbd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Ghani Mustard",
+          "image": "/images/oil/imported/ghani_mustard_oil_india.png",
+          "tags": ["India", "Mustard"]
+        },
+        {
+          "name": "Kings Sunflower",
+          "image": "/images/oil/imported/kings_sunflower_oil_india.png",
+          "tags": ["India", "Sunflower"]
+        },
+        {
+          "name": "Olitalia Sunflower",
+          "image": "/images/oil/imported/olitalia_fortified_sunflower_oil_italy.png",
+          "tags": ["Italy", "Sunflower", "Fortified"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

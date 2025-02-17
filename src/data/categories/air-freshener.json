@@ -1,0 +1,120 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "এঞ্জেলিক ফ্রেশ",
+          "image": "/images/air freshner/local/angelic_fresh_air_freshener_citrus_burst_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কুল ব্রিজ",
+          "image": "/images/air freshner/local/cool_breeze_air_freshener_strawberry_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্যান্টাস্টিক",
+          "image": "/images/air freshner/local/fantastik_air_freshener_lavender_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ এন গার্ডেন",
+          "image": "/images/air freshner/local/fresh_n_garden_air_freshener_petal_rose_bd.png",
+          "tags": []
+        },
+        {
+          "name": "গো ফ্রেশ",
+          "image": "/images/air freshner/local/go_fresh_air_freshener_rose_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্প্রিং",
+          "image": "/images/air freshner/local/spring_air_freshener_lemon_floral_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ফে",
+          "image": "/images/air freshner/imported/fay_air_freshener_lime_Indonesia.png",
+          "tags": ["Indonesia", "Lime"]
+        },
+        {
+          "name": "গোদরেজ এয়ার",
+          "image": "/images/air freshner/imported/godrej_aer_power_pocket_bathroom_fragrance_sea_breeze_india.png",
+          "tags": ["India", "Bathroom Fragrance", "Sea Breeze"]
+        },
+        {
+          "name": "ওডোনিল",
+          "image": "/images/air freshner/imported/odonil_air_freshener_block_jasmine_mist_india.png",
+          "tags": ["India", "Jasmine Mist"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Angelic Fresh",
+          "image": "/images/air freshner/local/angelic_fresh_air_freshener_citrus_burst_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Cool Breeze",
+          "image": "/images/air freshner/local/cool_breeze_air_freshener_strawberry_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fantastik",
+          "image": "/images/air freshner/local/fantastik_air_freshener_lavender_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh N Garden",
+          "image": "/images/air freshner/local/fresh_n_garden_air_freshener_petal_rose_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Go Fresh",
+          "image": "/images/air freshner/local/go_fresh_air_freshener_rose_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Spring",
+          "image": "/images/air freshner/local/spring_air_freshener_lemon_floral_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Fay",
+          "image": "/images/air freshner/imported/fay_air_freshener_lime_Indonesia.png",
+          "tags": ["Indonesia", "Lime"]
+        },
+        {
+          "name": "Godrej Aer",
+          "image": "/images/air freshner/imported/godrej_aer_power_pocket_bathroom_fragrance_sea_breeze_india.png",
+          "tags": ["India", "Bathroom Fragrance", "Sea Breeze"]
+        },
+        {
+          "name": "Odonil",
+          "image": "/images/air freshner/imported/odonil_air_freshener_block_jasmine_mist_india.png",
+          "tags": ["India", "Jasmine Mist"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

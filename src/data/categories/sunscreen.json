@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "আমলকি সানস্ক্রিন",
+          "image": "/images/suncreen/local/Amlaki_Sunscreenbd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেইয়াস ফেস শিল্ড এসপিএফ৫০",
+          "image": "/images/suncreen/local/Freyias_Face_Shield_SPF50PA_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্কিন ক্যাফে সানস্ক্রিন এসপিএফ৫০",
+          "image": "/images/suncreen/local/Skin_Cafe_Sunscreen_SPF_50_PA_Lightweight_amp_Non_Greasyb_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "থ্রি ডব্লিউ ক্লিনিক ইউভি সানব্লক",
+          "image": "/images/suncreen/imported/3W_Clinic_Intensive_UV_Sunblock_Cream_SPF_50PA_korea.png",
+          "tags": ["Korea", "SPF 50"]
+        },
+        {
+          "name": "কসরক্স অ্যালো সুদিং সান ক্রিম",
+          "image": "/images/suncreen/imported/Cosrx_Aloe_Soothing_Sun_Cream_korea.png",
+          "tags": ["Korea", "Aloe"]
+        },
+        {
+          "name": "ডট কী ওয়াটারমেলন কুলিং",
+          "image": "/images/suncreen/imported/Dot_Key_Watermelon_Cooling_Sunscreen_india.png",
+          "tags": ["India", "Watermelon"]
+        },
+        {
+          "name": "ইজন্টট্রি হায়ালুরনিক অ্যাসিড",
+          "image": "/images/suncreen/imported/Isntree_Hyaluronic_Acid__korea.png",
+          "tags": ["Korea", "Hyaluronic Acid"]
+        },
+        {
+          "name": "লাকমে সান এক্সপার্ট",
+          "image": "/images/suncreen/imported/Lakme_Sun_Expert_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লোটাস হার্বালস সেফ সান",
+          "image": "/images/suncreen/imported/Lotus_Herbals_Safe_Sun_3_In_1_Matte_Look_Daily_Sunblock_PA_india.png",
+          "tags": ["India", "Matte", "3-in-1"]
+        },
+        {
+          "name": "নিউট্রোজেনা আলট্রা শিয়ার",
+          "image": "/images/suncreen/imported/Neutrogena_Ultra_Sheer_Dry_Touch_Sunscreen_us.png",
+          "tags": ["USA", "Ultra Sheer"]
+        },
+        {
+          "name": "কোরিয়ান সানস্ক্রিন",
+          "image": "/images/suncreen/imported/korea.png",
+          "tags": ["Korea"]
+        },
+        {
+          "name": "মামাআর্থ",
+          "image": "/images/suncreen/imported/mamaearth_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Amlaki Sunscreen",
+          "image": "/images/suncreen/local/Amlaki_Sunscreenbd.png",
+          "tags": []
+        },
+        {
+          "name": "Freyias Face Shield SPF50",
+          "image": "/images/suncreen/local/Freyias_Face_Shield_SPF50PA_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Skin Cafe Sunscreen SPF50",
+          "image": "/images/suncreen/local/Skin_Cafe_Sunscreen_SPF_50_PA_Lightweight_amp_Non_Greasyb_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "3W Clinic UV Sunblock",
+          "image": "/images/suncreen/imported/3W_Clinic_Intensive_UV_Sunblock_Cream_SPF_50PA_korea.png",
+          "tags": ["Korea", "SPF 50"]
+        },
+        {
+          "name": "COSRX Aloe Soothing Sun Cream",
+          "image": "/images/suncreen/imported/Cosrx_Aloe_Soothing_Sun_Cream_korea.png",
+          "tags": ["Korea", "Aloe"]
+        },
+        {
+          "name": "Dot & Key Watermelon Cooling",
+          "image": "/images/suncreen/imported/Dot_Key_Watermelon_Cooling_Sunscreen_india.png",
+          "tags": ["India", "Watermelon"]
+        },
+        {
+          "name": "Isntree Hyaluronic Acid",
+          "image": "/images/suncreen/imported/Isntree_Hyaluronic_Acid__korea.png",
+          "tags": ["Korea", "Hyaluronic Acid"]
+        },
+        {
+          "name": "Lakme Sun Expert",
+          "image": "/images/suncreen/imported/Lakme_Sun_Expert_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Lotus Herbals Safe Sun",
+          "image": "/images/suncreen/imported/Lotus_Herbals_Safe_Sun_3_In_1_Matte_Look_Daily_Sunblock_PA_india.png",
+          "tags": ["India", "Matte", "3-in-1"]
+        },
+        {
+          "name": "Neutrogena Ultra Sheer",
+          "image": "/images/suncreen/imported/Neutrogena_Ultra_Sheer_Dry_Touch_Sunscreen_us.png",
+          "tags": ["USA", "Ultra Sheer"]
+        },
+        {
+          "name": "Korean Sunscreen",
+          "image": "/images/suncreen/imported/korea.png",
+          "tags": ["Korea"]
+        },
+        {
+          "name": "Mamaearth",
+          "image": "/images/suncreen/imported/mamaearth_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

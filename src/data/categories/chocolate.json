@@ -1,0 +1,180 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ডিভাইনো",
+          "image": "/images/chocolate/local/divino_chocolate_little_angel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ",
+          "image": "/images/chocolate/local/fresh_chocolate_bar_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মিমি",
+          "image": "/images/chocolate/local/mimi_milk_chocolatebd.png",
+          "tags": []
+        },
+        {
+          "name": "নুসেলা",
+          "image": "/images/chocolate/local/nucella_chocolate_bread_spread_cocoa_almond_bd.png",
+          "tags": []
+        },
+        {
+          "name": "নিউট্রি ভেলভেট",
+          "image": "/images/chocolate/local/nutri_velvet_creamy_milk_chocolate_bar_bd.png",
+          "tags": []
+        },
+        {
+          "name": "অলিম্পিক নক",
+          "image": "/images/chocolate/local/olympic_knock_chocolate_coated_wafer_biscuits_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ওয়েল ফুড",
+          "image": "/images/chocolate/local/well_food_almond_premium_white_chocolate_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "আমুল",
+          "image": "/images/chocolate/imported/amul_dark_chocolateindia.png",
+          "tags": ["India", "Dark Chocolate"]
+        },
+        {
+          "name": "ক্যাডবেরি ফাইভ স্টার",
+          "image": "/images/chocolate/imported/cadbury_5_star_chocolate_bar_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ক্যাডবেরি সিল্ক",
+          "image": "/images/chocolate/imported/cadbury_dairy_milk_silk_chocolate_india.png",
+          "tags": ["India", "Dairy Milk"]
+        },
+        {
+          "name": "ফেরেরো রোশার",
+          "image": "/images/chocolate/imported/ferrero_rocher_premium_chocolates_italy.png",
+          "tags": ["Italy", "Premium"]
+        },
+        {
+          "name": "ফিন কারে",
+          "image": "/images/chocolate/imported/fin_carre_white_chocolate_Belgium.png",
+          "tags": ["Belgium", "White Chocolate"]
+        },
+        {
+          "name": "হারশিজ",
+          "image": "/images/chocolate/imported/hersheys_chocolate_syrup_us.png",
+          "tags": ["USA", "Syrup"]
+        },
+        {
+          "name": "কিটক্যাট",
+          "image": "/images/chocolate/imported/nestle_kitkat_2_finger_chocolate_wafer_india_.png",
+          "tags": ["India", "Wafer"]
+        },
+        {
+          "name": "স্নিকারস",
+          "image": "/images/chocolate/imported/snickers_chocolate_russia.png",
+          "tags": ["Russia"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Divino",
+          "image": "/images/chocolate/local/divino_chocolate_little_angel_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh",
+          "image": "/images/chocolate/local/fresh_chocolate_bar_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Mimi",
+          "image": "/images/chocolate/local/mimi_milk_chocolatebd.png",
+          "tags": []
+        },
+        {
+          "name": "Nucella",
+          "image": "/images/chocolate/local/nucella_chocolate_bread_spread_cocoa_almond_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Nutri Velvet",
+          "image": "/images/chocolate/local/nutri_velvet_creamy_milk_chocolate_bar_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Olympic Knock",
+          "image": "/images/chocolate/local/olympic_knock_chocolate_coated_wafer_biscuits_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Well Food",
+          "image": "/images/chocolate/local/well_food_almond_premium_white_chocolate_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Amul",
+          "image": "/images/chocolate/imported/amul_dark_chocolateindia.png",
+          "tags": ["India", "Dark Chocolate"]
+        },
+        {
+          "name": "Cadbury Five Star",
+          "image": "/images/chocolate/imported/cadbury_5_star_chocolate_bar_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Cadbury Silk",
+          "image": "/images/chocolate/imported/cadbury_dairy_milk_silk_chocolate_india.png",
+          "tags": ["India", "Dairy Milk"]
+        },
+        {
+          "name": "Ferrero Rocher",
+          "image": "/images/chocolate/imported/ferrero_rocher_premium_chocolates_italy.png",
+          "tags": ["Italy", "Premium"]
+        },
+        {
+          "name": "Fin Carre",
+          "image": "/images/chocolate/imported/fin_carre_white_chocolate_Belgium.png",
+          "tags": ["Belgium", "White Chocolate"]
+        },
+        {
+          "name": "Hersheys",
+          "image": "/images/chocolate/imported/hersheys_chocolate_syrup_us.png",
+          "tags": ["USA", "Syrup"]
+        },
+        {
+          "name": "KitKat",
+          "image": "/images/chocolate/imported/nestle_kitkat_2_finger_chocolate_wafer_india_.png",
+          "tags": ["India", "Wafer"]
+        },
+        {
+          "name": "Snickers",
+          "image": "/images/chocolate/imported/snickers_chocolate_russia.png",
+          "tags": ["Russia"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

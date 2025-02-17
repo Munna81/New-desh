@@ -1,0 +1,160 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "প্রো ডেন্টাল",
+          "image": "/images/Toothbrush/local/Pro_dental_toothbrush__bd.png",
+          "tags": []
+        },
+        {
+          "name": "আরএফএল সানি",
+          "image": "/images/Toothbrush/local/RFL_sunny_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ম্যাটাডর",
+          "image": "/images/Toothbrush/local/matador.png",
+          "tags": []
+        },
+        {
+          "name": "মেডি প্লাস",
+          "image": "/images/Toothbrush/local/medi_plus_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল বেবি ব্রাশ",
+          "image": "/images/Toothbrush/local/meril_baby_brush_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ক্লাসিক",
+          "image": "/images/Toothbrush/imported/classic_brush_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "কলগেট",
+          "image": "/images/Toothbrush/imported/colgate_USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "ডাঃ ওয়েস্ট",
+          "image": "/images/Toothbrush/imported/dr_west_japan.png",
+          "tags": ["Japan"]
+        },
+        {
+          "name": "কোডোমো বেবি",
+          "image": "/images/Toothbrush/imported/kodomo_baby_brush_Thailand.png",
+          "tags": ["Thailand", "Baby"]
+        },
+        {
+          "name": "অরাল ফ্রেশ",
+          "image": "/images/Toothbrush/imported/oral_fresh_brush_china.png",
+          "tags": ["China"]
+        },
+        {
+          "name": "পেপসোডেন্ট",
+          "image": "/images/Toothbrush/imported/pepsodent_USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "সেনসোডাইন এক্সপার্ট",
+          "image": "/images/Toothbrush/imported/sensodyne_expert_brush_.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "ট্রিসা জুনিয়র",
+          "image": "/images/Toothbrush/imported/trisa_junior_toothbrush_swizewland.png",
+          "tags": ["Switzerland", "Junior"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Pro Dental",
+          "image": "/images/Toothbrush/local/Pro_dental_toothbrush__bd.png",
+          "tags": []
+        },
+        {
+          "name": "RFL Sunny",
+          "image": "/images/Toothbrush/local/RFL_sunny_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Matador",
+          "image": "/images/Toothbrush/local/matador.png",
+          "tags": []
+        },
+        {
+          "name": "Medi Plus",
+          "image": "/images/Toothbrush/local/medi_plus_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Baby Brush",
+          "image": "/images/Toothbrush/local/meril_baby_brush_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Classic",
+          "image": "/images/Toothbrush/imported/classic_brush_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Colgate",
+          "image": "/images/Toothbrush/imported/colgate_USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Dr. West",
+          "image": "/images/Toothbrush/imported/dr_west_japan.png",
+          "tags": ["Japan"]
+        },
+        {
+          "name": "Kodomo Baby",
+          "image": "/images/Toothbrush/imported/kodomo_baby_brush_Thailand.png",
+          "tags": ["Thailand", "Baby"]
+        },
+        {
+          "name": "Oral Fresh",
+          "image": "/images/Toothbrush/imported/oral_fresh_brush_china.png",
+          "tags": ["China"]
+        },
+        {
+          "name": "Pepsodent",
+          "image": "/images/Toothbrush/imported/pepsodent_USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Sensodyne Expert",
+          "image": "/images/Toothbrush/imported/sensodyne_expert_brush_.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "Trisa Junior",
+          "image": "/images/Toothbrush/imported/trisa_junior_toothbrush_swizewland.png",
+          "tags": ["Switzerland", "Junior"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "আলুজ",
+          "image": "/images/chips/local/alooz_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মিস্টার টুইস্ট",
+          "image": "/images/chips/local/mr_twist_bd.png",
+          "tags": []
+        },
+        {
+          "name": "পটেটো ক্র্যাকারস",
+          "image": "/images/chips/local/potato_crackers_bd.png",
+          "tags": []
+        },
+        {
+          "name": "রুচি",
+          "image": "/images/chips/local/ruchi_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "চিটোস",
+          "image": "/images/chips/imported/cheetos_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "ডেটোস",
+          "image": "/images/chips/imported/detosNew_Zealand.png",
+          "tags": ["New Zealand"]
+        },
+        {
+          "name": "কার্ল",
+          "image": "/images/chips/imported/karl_japan.png",
+          "tags": ["Japan"]
+        },
+        {
+          "name": "কুরকুরে",
+          "image": "/images/chips/imported/kurkure_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লেইস",
+          "image": "/images/chips/imported/lays_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "মেরিডিয়ান",
+          "image": "/images/chips/imported/meridianThailand.png",
+          "tags": ["Thailand"]
+        },
+        {
+          "name": "প্রিংগলস",
+          "image": "/images/chips/imported/pringles_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "সান",
+          "image": "/images/chips/imported/sun_us.png",
+          "tags": ["USA"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Alooz",
+          "image": "/images/chips/local/alooz_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Mr Twist",
+          "image": "/images/chips/local/mr_twist_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Potato Crackers",
+          "image": "/images/chips/local/potato_crackers_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Ruchi",
+          "image": "/images/chips/local/ruchi_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Cheetos",
+          "image": "/images/chips/imported/cheetos_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Detos",
+          "image": "/images/chips/imported/detosNew_Zealand.png",
+          "tags": ["New Zealand"]
+        },
+        {
+          "name": "Karl",
+          "image": "/images/chips/imported/karl_japan.png",
+          "tags": ["Japan"]
+        },
+        {
+          "name": "Kurkure",
+          "image": "/images/chips/imported/kurkure_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Lays",
+          "image": "/images/chips/imported/lays_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Meridian",
+          "image": "/images/chips/imported/meridianThailand.png",
+          "tags": ["Thailand"]
+        },
+        {
+          "name": "Pringles",
+          "image": "/images/chips/imported/pringles_us.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Sun",
+          "image": "/images/chips/imported/sun_us.png",
+          "tags": ["USA"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

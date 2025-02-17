@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ব্রুভানা স্পোর্টস আম",
+          "image": "/images/juice/local/bruvana_sports_electrolyte_beverage_mango_flavor_bd.png",
+          "tags": ["Mango", "Sports"]
+        },
+        {
+          "name": "ফ্রুটিকা আম",
+          "image": "/images/juice/local/frutika_mango_juice_bd.png",
+          "tags": ["Mango"]
+        },
+        {
+          "name": "ল্যাটিনা আপেল",
+          "image": "/images/juice/local/latina_100_juice_applebd.png",
+          "tags": ["Apple", "100% Juice"]
+        },
+        {
+          "name": "প্রাণ ড্রিঙ্কো লিচু",
+          "image": "/images/juice/local/pran_drinko_litchi_juice_bd.png",
+          "tags": ["Litchi"]
+        },
+        {
+          "name": "প্রাণ বেদানা",
+          "image": "/images/juice/local/pran_pomegranate_fruit_drinks_bd.png",
+          "tags": ["Pomegranate"]
+        },
+        {
+          "name": "স্টারশিপ আম জুনিয়র",
+          "image": "/images/juice/local/starship_mango_junior_bbd.png",
+          "tags": ["Mango", "Junior"]
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "সাইপ্রিনা কমলা",
+          "image": "/images/juice/imported/cyprina_orange_juice_cyprus.png",
+          "tags": ["Cyprus", "Orange"]
+        },
+        {
+          "name": "ফন্টানা আপেল",
+          "image": "/images/juice/imported/fontana_apple_juice_Cyprus.png",
+          "tags": ["Cyprus", "Apple"]
+        },
+        {
+          "name": "মালি আনারস",
+          "image": "/images/juice/imported/malee_100_pineapple_juice_thailand.png",
+          "tags": ["Thailand", "Pineapple", "100% Juice"]
+        },
+        {
+          "name": "নিউট্রিলাইফ আপেল",
+          "image": "/images/juice/imported/nutrilife_apple_juice_bhutan.png",
+          "tags": ["Bhutan", "Apple"]
+        },
+        {
+          "name": "টিপকো পেয়ারা",
+          "image": "/images/juice/imported/tipco_guava_juicethailand.png",
+          "tags": ["Thailand", "Guava"]
+        },
+        {
+          "name": "টিপকো লাল আঙ্গুর",
+          "image": "/images/juice/imported/tipco_red_grape_juice_thailand.png",
+          "tags": ["Thailand", "Red Grape"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Bruvana Sports Mango",
+          "image": "/images/juice/local/bruvana_sports_electrolyte_beverage_mango_flavor_bd.png",
+          "tags": ["Mango", "Sports"]
+        },
+        {
+          "name": "Frutika Mango",
+          "image": "/images/juice/local/frutika_mango_juice_bd.png",
+          "tags": ["Mango"]
+        },
+        {
+          "name": "Latina Apple",
+          "image": "/images/juice/local/latina_100_juice_applebd.png",
+          "tags": ["Apple", "100% Juice"]
+        },
+        {
+          "name": "Pran Drinko Litchi",
+          "image": "/images/juice/local/pran_drinko_litchi_juice_bd.png",
+          "tags": ["Litchi"]
+        },
+        {
+          "name": "Pran Pomegranate",
+          "image": "/images/juice/local/pran_pomegranate_fruit_drinks_bd.png",
+          "tags": ["Pomegranate"]
+        },
+        {
+          "name": "Starship Mango Junior",
+          "image": "/images/juice/local/starship_mango_junior_bbd.png",
+          "tags": ["Mango", "Junior"]
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Cyprina Orange",
+          "image": "/images/juice/imported/cyprina_orange_juice_cyprus.png",
+          "tags": ["Cyprus", "Orange"]
+        },
+        {
+          "name": "Fontana Apple",
+          "image": "/images/juice/imported/fontana_apple_juice_Cyprus.png",
+          "tags": ["Cyprus", "Apple"]
+        },
+        {
+          "name": "Malee Pineapple",
+          "image": "/images/juice/imported/malee_100_pineapple_juice_thailand.png",
+          "tags": ["Thailand", "Pineapple", "100% Juice"]
+        },
+        {
+          "name": "Nutrilife Apple",
+          "image": "/images/juice/imported/nutrilife_apple_juice_bhutan.png",
+          "tags": ["Bhutan", "Apple"]
+        },
+        {
+          "name": "Tipco Guava",
+          "image": "/images/juice/imported/tipco_guava_juicethailand.png",
+          "tags": ["Thailand", "Guava"]
+        },
+        {
+          "name": "Tipco Red Grape",
+          "image": "/images/juice/imported/tipco_red_grape_juice_thailand.png",
+          "tags": ["Thailand", "Red Grape"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

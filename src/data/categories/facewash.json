@@ -1,0 +1,210 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "আরং আর্থ নিম",
+          "image": "/images/face wash/local/Aarong_Earth_Neem__bd.png",
+          "tags": ["Neem"]
+        },
+        {
+          "name": "রাজকন্যা",
+          "image": "/images/face wash/local/Rajkonna__bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্কিন ক্যাফে",
+          "image": "/images/face wash/local/Skin_Cafe__bd.png",
+          "tags": []
+        },
+        {
+          "name": "আর্থ বিউটি",
+          "image": "/images/face wash/local/earth_beauty__bd.png",
+          "tags": []
+        },
+        {
+          "name": "গ্লো লাভলি",
+          "image": "/images/face wash/local/glow_lovely_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট",
+          "image": "/images/face wash/local/parachute__bd.png",
+          "tags": []
+        },
+        {
+          "name": "পন্ডস",
+          "image": "/images/face wash/local/ponds__uniliver_bd.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "স্টুডিও এক্স",
+          "image": "/images/face wash/local/studio_x__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "জনসন",
+          "image": "/images/face wash/imported/Johnson_UK.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "নিভিয়া",
+          "image": "/images/face wash/imported/Nivea_Face__Germen.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "আভেন",
+          "image": "/images/face wash/imported/avene_France.png",
+          "tags": ["France"]
+        },
+        {
+          "name": "সেরাভে",
+          "image": "/images/face wash/imported/cerave_hydrating__USA.png",
+          "tags": ["USA", "Hydrating"]
+        },
+        {
+          "name": "ক্লিন এন্ড ক্লিয়ার",
+          "image": "/images/face wash/imported/clean_clear_foaming__India.png",
+          "tags": ["India", "Foaming"]
+        },
+        {
+          "name": "কসআরএক্স",
+          "image": "/images/face wash/imported/cosrx_Korea.png",
+          "tags": ["Korea"]
+        },
+        {
+          "name": "ডট কী",
+          "image": "/images/face wash/imported/dot__key__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "হিমালয়া",
+          "image": "/images/face wash/imported/himalaya__india.png",
+          "tags": ["India", "Herbal"]
+        },
+        {
+          "name": "নিউট্রোজেনা",
+          "image": "/images/face wash/imported/neutrogena_deep_clean__India.png",
+          "tags": ["India", "Deep Clean"]
+        },
+        {
+          "name": "সিম্পল",
+          "image": "/images/face wash/imported/simple_poland.png",
+          "tags": ["Poland"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Aarong Earth Neem",
+          "image": "/images/face wash/local/Aarong_Earth_Neem__bd.png",
+          "tags": ["Neem"]
+        },
+        {
+          "name": "Rajkonna",
+          "image": "/images/face wash/local/Rajkonna__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Skin Cafe",
+          "image": "/images/face wash/local/Skin_Cafe__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Earth Beauty",
+          "image": "/images/face wash/local/earth_beauty__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Glow & Lovely",
+          "image": "/images/face wash/local/glow_lovely_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute",
+          "image": "/images/face wash/local/parachute__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Ponds",
+          "image": "/images/face wash/local/ponds__uniliver_bd.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "Studio X",
+          "image": "/images/face wash/local/studio_x__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Johnson",
+          "image": "/images/face wash/imported/Johnson_UK.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "Nivea Face",
+          "image": "/images/face wash/imported/Nivea_Face__Germen.png",
+          "tags": ["Germany"]
+        },
+        {
+          "name": "Avene",
+          "image": "/images/face wash/imported/avene_France.png",
+          "tags": ["France"]
+        },
+        {
+          "name": "CeraVe",
+          "image": "/images/face wash/imported/cerave_hydrating__USA.png",
+          "tags": ["USA", "Hydrating"]
+        },
+        {
+          "name": "Clean & Clear",
+          "image": "/images/face wash/imported/clean_clear_foaming__India.png",
+          "tags": ["India", "Foaming"]
+        },
+        {
+          "name": "COSRX",
+          "image": "/images/face wash/imported/cosrx_Korea.png",
+          "tags": ["Korea"]
+        },
+        {
+          "name": "Dot & Key",
+          "image": "/images/face wash/imported/dot__key__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Himalaya",
+          "image": "/images/face wash/imported/himalaya__india.png",
+          "tags": ["India", "Herbal"]
+        },
+        {
+          "name": "Neutrogena",
+          "image": "/images/face wash/imported/neutrogena_deep_clean__India.png",
+          "tags": ["India", "Deep Clean"]
+        },
+        {
+          "name": "Simple",
+          "image": "/images/face wash/imported/simple_poland.png",
+          "tags": ["Poland"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

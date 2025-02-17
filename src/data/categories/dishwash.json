@@ -1,0 +1,150 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "এসিআই ওয়ান্ডার",
+          "image": "/images/dishwash/local/aci_wonder_dish_wash_barbd.png",
+          "tags": []
+        },
+        {
+          "name": "আমানা",
+          "image": "/images/dishwash/local/amana_dishwash_powder_bd.png",
+          "tags": []
+        },
+        {
+          "name": "চালদাল বেসিক",
+          "image": "/images/dishwash/local/chaldal_basic_liquid_dishwashbd.png",
+          "tags": []
+        },
+        {
+          "name": "রে",
+          "image": "/images/dishwash/local/ray_dish_wash_bd.png",
+          "tags": []
+        },
+        {
+          "name": "তারা",
+          "image": "/images/dishwash/local/tara_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ট্রিক্স",
+          "image": "/images/dishwash/local/trix_dish_washing_bar_lemon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ইয়েস",
+          "image": "/images/dishwash/local/yesbd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "আন্দালুস",
+          "image": "/images/dishwash/imported/andalusspain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "ফিনিশ",
+          "image": "/images/dishwash/imported/finish_lebu_dish_washing_bar_china.png",
+          "tags": ["China", "Lemon"]
+        },
+        {
+          "name": "ফিনিশ রিন্স",
+          "image": "/images/dishwash/imported/finish_rinse_aid_china.png",
+          "tags": ["China", "Rinse Aid"]
+        },
+        {
+          "name": "ভিম",
+          "image": "/images/dishwash/imported/vim_dishwashing_bar__uniliver.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "এক্সপার্ট",
+          "image": "/images/dishwash/imported/xpert_dishwash_bar_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ACI Wonder",
+          "image": "/images/dishwash/local/aci_wonder_dish_wash_barbd.png",
+          "tags": []
+        },
+        {
+          "name": "Amana",
+          "image": "/images/dishwash/local/amana_dishwash_powder_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Chaldal Basic",
+          "image": "/images/dishwash/local/chaldal_basic_liquid_dishwashbd.png",
+          "tags": []
+        },
+        {
+          "name": "Ray",
+          "image": "/images/dishwash/local/ray_dish_wash_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tara",
+          "image": "/images/dishwash/local/tara_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Trix",
+          "image": "/images/dishwash/local/trix_dish_washing_bar_lemon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Yes",
+          "image": "/images/dishwash/local/yesbd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Andalus",
+          "image": "/images/dishwash/imported/andalusspain.png",
+          "tags": ["Spain"]
+        },
+        {
+          "name": "Finish",
+          "image": "/images/dishwash/imported/finish_lebu_dish_washing_bar_china.png",
+          "tags": ["China", "Lemon"]
+        },
+        {
+          "name": "Finish Rinse",
+          "image": "/images/dishwash/imported/finish_rinse_aid_china.png",
+          "tags": ["China", "Rinse Aid"]
+        },
+        {
+          "name": "Vim",
+          "image": "/images/dishwash/imported/vim_dishwashing_bar__uniliver.png",
+          "tags": ["Unilever"]
+        },
+        {
+          "name": "Xpert",
+          "image": "/images/dishwash/imported/xpert_dishwash_bar_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

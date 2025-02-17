@@ -1,0 +1,210 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "এএম পিএম",
+          "image": "/images/tooth paste/local/am_pm_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ব্রাশআপ",
+          "image": "/images/tooth paste/local/brushup_anfords_bd_ltd.png",
+          "tags": []
+        },
+        {
+          "name": "ম্যাজিক",
+          "image": "/images/tooth paste/local/magic_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেডিপ্লাস",
+          "image": "/images/tooth paste/local/mediplus_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল বেবি জেল স্ট্রবেরি",
+          "image": "/images/tooth paste/local/meril_baby_gel_strawberry_toothpaste__bd.png",
+          "tags": []
+        },
+        {
+          "name": "পেপসোডেন্ট সেনসিটিভ এক্সপার্ট ফ্রেশ",
+          "image": "/images/tooth paste/local/pepsodent_toothpaste_sensitive_expert_fresh__Unilever_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ইউনিলিভার",
+          "image": "/images/tooth paste/local/unilever_bd.png",
+          "tags": []
+        },
+        {
+          "name": "হোয়াইটপ্লাস এনামেল গার্ড",
+          "image": "/images/tooth paste/local/whiteplus_enamel_guard_toothpaste__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "হিমালয়া",
+          "image": "/images/tooth paste/imported/Himalaya_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "লিস্টেরিন",
+          "image": "/images/tooth paste/imported/Listerine__USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "মেসওয়াক",
+          "image": "/images/tooth paste/imported/Meswak__India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ক্লোজ আপ",
+          "image": "/images/tooth paste/imported/close_up_uniliver_USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "কলগেট টোটাল অ্যাডভান্স হেলথ",
+          "image": "/images/tooth paste/imported/colgate_total_advance_health_toothpaste__USA.png",
+          "tags": ["USA", "Total", "Advanced"]
+        },
+        {
+          "name": "ডাবর রেড",
+          "image": "/images/tooth paste/imported/dabur_red_toothpaste_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "কোডোমো বেবি গ্রেপ",
+          "image": "/images/tooth paste/imported/kodomo_baby_toothpaste_grape_flavor_Thailand.png",
+          "tags": ["Thailand", "Baby", "Grape"]
+        },
+        {
+          "name": "পেপসোডেন্ট কিডস স্ট্রবেরি",
+          "image": "/images/tooth paste/imported/pepsodent_toothpaste_kids_strawbery__UK.png",
+          "tags": ["UK", "Kids", "Strawberry"]
+        },
+        {
+          "name": "সেনসোডাইন র‍্যাপিড রিলিফ",
+          "image": "/images/tooth paste/imported/sensodyne_rapid_relief_toothpaste__Ireland.png",
+          "tags": ["Ireland", "Rapid Relief"]
+        },
+        {
+          "name": "স্মোকারস",
+          "image": "/images/tooth paste/imported/smokers_Thailand.png",
+          "tags": ["Thailand", "Smokers"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "AM PM",
+          "image": "/images/tooth paste/local/am_pm_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Brush Up",
+          "image": "/images/tooth paste/local/brushup_anfords_bd_ltd.png",
+          "tags": []
+        },
+        {
+          "name": "Magic",
+          "image": "/images/tooth paste/local/magic_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Mediplus",
+          "image": "/images/tooth paste/local/mediplus_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Baby Gel Strawberry",
+          "image": "/images/tooth paste/local/meril_baby_gel_strawberry_toothpaste__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Pepsodent Sensitive Expert Fresh",
+          "image": "/images/tooth paste/local/pepsodent_toothpaste_sensitive_expert_fresh__Unilever_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Unilever",
+          "image": "/images/tooth paste/local/unilever_bd.png",
+          "tags": []
+        },
+        {
+          "name": "White Plus Enamel Guard",
+          "image": "/images/tooth paste/local/whiteplus_enamel_guard_toothpaste__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Himalaya",
+          "image": "/images/tooth paste/imported/Himalaya_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Listerine",
+          "image": "/images/tooth paste/imported/Listerine__USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Meswak",
+          "image": "/images/tooth paste/imported/Meswak__India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Close Up",
+          "image": "/images/tooth paste/imported/close_up_uniliver_USA.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Colgate Total Advanced Health",
+          "image": "/images/tooth paste/imported/colgate_total_advance_health_toothpaste__USA.png",
+          "tags": ["USA", "Total", "Advanced"]
+        },
+        {
+          "name": "Dabur Red",
+          "image": "/images/tooth paste/imported/dabur_red_toothpaste_India.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Kodomo Baby Grape",
+          "image": "/images/tooth paste/imported/kodomo_baby_toothpaste_grape_flavor_Thailand.png",
+          "tags": ["Thailand", "Baby", "Grape"]
+        },
+        {
+          "name": "Pepsodent Kids Strawberry",
+          "image": "/images/tooth paste/imported/pepsodent_toothpaste_kids_strawbery__UK.png",
+          "tags": ["UK", "Kids", "Strawberry"]
+        },
+        {
+          "name": "Sensodyne Rapid Relief",
+          "image": "/images/tooth paste/imported/sensodyne_rapid_relief_toothpaste__Ireland.png",
+          "tags": ["Ireland", "Rapid Relief"]
+        },
+        {
+          "name": "Smokers",
+          "image": "/images/tooth paste/imported/smokers_Thailand.png",
+          "tags": ["Thailand", "Smokers"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

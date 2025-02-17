@@ -1,0 +1,210 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "আরং",
+          "image": "/images/shampoo/local/arong_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ডাভ",
+          "image": "/images/shampoo/local/dove_shampoo_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল বেবি",
+          "image": "/images/shampoo/local/meril_baby_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট",
+          "image": "/images/shampoo/local/parachute__bd.png",
+          "tags": []
+        },
+        {
+          "name": "রিভাইভ",
+          "image": "/images/shampoo/local/revive_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সিলেক্ট প্লাস",
+          "image": "/images/shampoo/local/select_plus__bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্কিন ক্যাফে",
+          "image": "/images/shampoo/local/skin_cafe_bd.png",
+          "tags": []
+        },
+        {
+          "name": "স্টুডিও এক্স অ্যান্টি",
+          "image": "/images/shampoo/local/studio_x_anti_bd_.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ক্লিনিক প্লাস",
+          "image": "/images/shampoo/imported/Clinic_Plus__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ক্লিয়ার",
+          "image": "/images/shampoo/imported/clear_shampoo__italy.png",
+          "tags": ["Italy"]
+        },
+        {
+          "name": "ডাভ",
+          "image": "/images/shampoo/imported/dove__usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "হেড অ্যান্ড শোল্ডারস নিম",
+          "image": "/images/shampoo/imported/head_shoulders_neem_india.png",
+          "tags": ["India", "Neem"]
+        },
+        {
+          "name": "কোডোমো বেবি",
+          "image": "/images/shampoo/imported/kodomo_baby_Thailand.png",
+          "tags": ["Thailand", "Baby"]
+        },
+        {
+          "name": "লরিয়াল প্যারিস",
+          "image": "/images/shampoo/imported/loreal_paris_france.png",
+          "tags": ["France"]
+        },
+        {
+          "name": "প্যান্টিন",
+          "image": "/images/shampoo/imported/pantene_American.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "সানসিল্ক",
+          "image": "/images/shampoo/imported/sunsilk__uk.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "দ্য বডি শপ",
+          "image": "/images/shampoo/imported/the_body_shop_uk.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "ট্রেসেম",
+          "image": "/images/shampoo/imported/tresemme_usa.png",
+          "tags": ["USA"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Aarong",
+          "image": "/images/shampoo/local/arong_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Dove",
+          "image": "/images/shampoo/local/dove_shampoo_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Baby",
+          "image": "/images/shampoo/local/meril_baby_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute",
+          "image": "/images/shampoo/local/parachute__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Revive",
+          "image": "/images/shampoo/local/revive_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Select Plus",
+          "image": "/images/shampoo/local/select_plus__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Skin Cafe",
+          "image": "/images/shampoo/local/skin_cafe_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Studio X Anti",
+          "image": "/images/shampoo/local/studio_x_anti_bd_.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Clinic Plus",
+          "image": "/images/shampoo/imported/Clinic_Plus__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Clear",
+          "image": "/images/shampoo/imported/clear_shampoo__italy.png",
+          "tags": ["Italy"]
+        },
+        {
+          "name": "Dove",
+          "image": "/images/shampoo/imported/dove__usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Head & Shoulders Neem",
+          "image": "/images/shampoo/imported/head_shoulders_neem_india.png",
+          "tags": ["India", "Neem"]
+        },
+        {
+          "name": "Kodomo Baby",
+          "image": "/images/shampoo/imported/kodomo_baby_Thailand.png",
+          "tags": ["Thailand", "Baby"]
+        },
+        {
+          "name": "L'Oreal Paris",
+          "image": "/images/shampoo/imported/loreal_paris_france.png",
+          "tags": ["France"]
+        },
+        {
+          "name": "Pantene",
+          "image": "/images/shampoo/imported/pantene_American.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Sunsilk",
+          "image": "/images/shampoo/imported/sunsilk__uk.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "The Body Shop",
+          "image": "/images/shampoo/imported/the_body_shop_uk.png",
+          "tags": ["UK"]
+        },
+        {
+          "name": "TRESemmé",
+          "image": "/images/shampoo/imported/tresemme_usa.png",
+          "tags": ["USA"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

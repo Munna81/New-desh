@@ -1,0 +1,190 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "আরং আর্থ নারিকেল তেল",
+          "image": "/images/hair oil/local/Arong_Earth_Coconut_Oil_bd.png",
+          "tags": ["Coconut"]
+        },
+        {
+          "name": "আর্থ বিউটি",
+          "image": "/images/hair oil/local/Earth_Beauty_bd.png",
+          "tags": []
+        },
+        {
+          "name": "হাওয়া",
+          "image": "/images/hair oil/local/Hawaa_bd.png",
+          "tags": []
+        },
+        {
+          "name": "কুমারিকা",
+          "image": "/images/hair oil/local/Kumarika__bd.png",
+          "tags": []
+        },
+        {
+          "name": "ন্যাচারা কেয়ার",
+          "image": "/images/hair oil/local/NaturaCare_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট অ্যাডভান্সড রোজমেরি",
+          "image": "/images/hair oil/local/Parachute_Advansed_Secrets_Rosemary_Hair_Oil_bd.png",
+          "tags": ["Rosemary"]
+        },
+        {
+          "name": "স্কিন ক্যাফে অ্যাভোকাডো",
+          "image": "/images/hair oil/local/Skin_Cafe_Avocado_Oil_Cold_bd.png",
+          "tags": ["Avocado"]
+        },
+        {
+          "name": "জুঁই পিউর",
+          "image": "/images/hair oil/local/jui_pure_bd.png",
+          "tags": []
+        },
+        {
+          "name": "নিওফার্মারস নারিকেল তেল",
+          "image": "/images/hair oil/local/neofarmers_coconut_oil_bd.png",
+          "tags": ["Coconut"]
+        },
+        {
+          "name": "রিবানা নারিকেল তেল",
+          "image": "/images/hair oil/local/ribana_coconut_oil_bd.png",
+          "tags": ["Coconut"]
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ভাসমল বেলিফুল",
+          "image": "/images/hair oil/imported/Vasmol_Belyful_Oil_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ওয়েলস ক্যাস্টর",
+          "image": "/images/hair oil/imported/Wells_Caster_Oil_spain.png",
+          "tags": ["Spain", "Castor"]
+        },
+        {
+          "name": "ডাবর",
+          "image": "/images/hair oil/imported/dabur_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "ডাবর ভাটিকা",
+          "image": "/images/hair oil/imported/dabur_vatika_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "প্যারাশুট",
+          "image": "/images/hair oil/imported/parachute_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "সেসা",
+          "image": "/images/hair oil/imported/sesa_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Aarong Earth Coconut Oil",
+          "image": "/images/hair oil/local/Arong_Earth_Coconut_Oil_bd.png",
+          "tags": ["Coconut"]
+        },
+        {
+          "name": "Earth Beauty",
+          "image": "/images/hair oil/local/Earth_Beauty_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Hawaa",
+          "image": "/images/hair oil/local/Hawaa_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Kumarika",
+          "image": "/images/hair oil/local/Kumarika__bd.png",
+          "tags": []
+        },
+        {
+          "name": "NaturaCare",
+          "image": "/images/hair oil/local/NaturaCare_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute Advanced Rosemary",
+          "image": "/images/hair oil/local/Parachute_Advansed_Secrets_Rosemary_Hair_Oil_bd.png",
+          "tags": ["Rosemary"]
+        },
+        {
+          "name": "Skin Cafe Avocado",
+          "image": "/images/hair oil/local/Skin_Cafe_Avocado_Oil_Cold_bd.png",
+          "tags": ["Avocado"]
+        },
+        {
+          "name": "Jui Pure",
+          "image": "/images/hair oil/local/jui_pure_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Neofarmers Coconut Oil",
+          "image": "/images/hair oil/local/neofarmers_coconut_oil_bd.png",
+          "tags": ["Coconut"]
+        },
+        {
+          "name": "Ribana Coconut Oil",
+          "image": "/images/hair oil/local/ribana_coconut_oil_bd.png",
+          "tags": ["Coconut"]
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Vasmol Belyful",
+          "image": "/images/hair oil/imported/Vasmol_Belyful_Oil_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Wells Castor Oil",
+          "image": "/images/hair oil/imported/Wells_Caster_Oil_spain.png",
+          "tags": ["Spain", "Castor"]
+        },
+        {
+          "name": "Dabur",
+          "image": "/images/hair oil/imported/dabur_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Dabur Vatika",
+          "image": "/images/hair oil/imported/dabur_vatika_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Parachute",
+          "image": "/images/hair oil/imported/parachute_india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Sesa",
+          "image": "/images/hair oil/imported/sesa_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

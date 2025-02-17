@@ -1,0 +1,200 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "ব্রুক বন্ড তাজা টি ব্যাগ",
+          "image": "/images/tea/local/brooke_bond_taaza_tea_bag_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফিনলে পিউর গ্রীন টি",
+          "image": "/images/tea/local/finlay_pure_green_tea_bags__bd.png",
+          "tags": []
+        },
+        {
+          "name": "ফ্রেশ প্রিমিয়াম ব্ল্যাক টি",
+          "image": "/images/tea/local/fresh_premium_black_tea_bd.png",
+          "tags": []
+        },
+        {
+          "name": "ইসপাহানি ব্লেন্ডারস চয়েস আদা লেবু",
+          "image": "/images/tea/local/ispahani_blenders_choice_premium_green_tea_ginger_lemon__bd.png",
+          "tags": []
+        },
+        {
+          "name": "কাজি এন্ড কাজি অর্গানিক গ্রীন টি",
+          "image": "/images/tea/local/kazi_kazi_organic_green_teabd.png",
+          "tags": []
+        },
+        {
+          "name": "কেডি হার্বাল টি",
+          "image": "/images/tea/local/kd_herbal_teabd.png",
+          "tags": []
+        },
+        {
+          "name": "ম্যাগনোলিয়া টি গার্ডেন ফ্রেশ",
+          "image": "/images/tea/local/magnolia_tea_garden_fresh_standard_tea__bd.png",
+          "tags": []
+        },
+        {
+          "name": "নেসটি আইসড টি লেমন",
+          "image": "/images/tea/local/nestea_iced_tea_lemon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "সিলেট গোল্ডেন প্রিমিয়াম ব্ল্যাক টি",
+          "image": "/images/tea/local/sylhet_golden_premium_black_tea_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টেটলি টি ব্যাগ লেমন হানি",
+          "image": "/images/tea/local/tetley_tea_bag_lemon_honey__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ডিলমা জিঞ্জার হানি",
+          "image": "/images/tea/imported/dilmah_ginger_honey_black_tea_srilanka.png",
+          "tags": ["Sri Lanka", "Ginger", "Honey"]
+        },
+        {
+          "name": "হালদা ভ্যালি গোল্ডেন আইব্রো",
+          "image": "/images/tea/imported/halda_valley_golden_eyebrow_black_tea__chine.png",
+          "tags": ["China", "Black Tea"]
+        },
+        {
+          "name": "লিপটন গ্রীন টি পিউর এন্ড লাইট",
+          "image": "/images/tea/imported/lipton_green_tea_pure_and_light_india.png",
+          "tags": ["India", "Green Tea"]
+        },
+        {
+          "name": "সিলন গোল্ড টি",
+          "image": "/images/tea/imported/seylon_gold_tea_srilanka.png",
+          "tags": ["Sri Lanka"]
+        },
+        {
+          "name": "টাটা টি গোল্ড",
+          "image": "/images/tea/imported/tata_tea_gold__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "টেটলি টি ব্যাগস",
+          "image": "/images/tea/imported/tetley_tea_bags_england.png",
+          "tags": ["England"]
+        },
+        {
+          "name": "ইয়ামি ব্ল্যাক টি",
+          "image": "/images/tea/imported/yummy_black_tea_Vietnam_.png",
+          "tags": ["Vietnam", "Black Tea"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Brooke Bond Taaza Tea Bag",
+          "image": "/images/tea/local/brooke_bond_taaza_tea_bag_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Finlay Pure Green Tea",
+          "image": "/images/tea/local/finlay_pure_green_tea_bags__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Fresh Premium Black Tea",
+          "image": "/images/tea/local/fresh_premium_black_tea_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Ispahani Blenders Choice Ginger Lemon",
+          "image": "/images/tea/local/ispahani_blenders_choice_premium_green_tea_ginger_lemon__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Kazi & Kazi Organic Green Tea",
+          "image": "/images/tea/local/kazi_kazi_organic_green_teabd.png",
+          "tags": []
+        },
+        {
+          "name": "KD Herbal Tea",
+          "image": "/images/tea/local/kd_herbal_teabd.png",
+          "tags": []
+        },
+        {
+          "name": "Magnolia Tea Garden Fresh",
+          "image": "/images/tea/local/magnolia_tea_garden_fresh_standard_tea__bd.png",
+          "tags": []
+        },
+        {
+          "name": "Nestea Iced Tea Lemon",
+          "image": "/images/tea/local/nestea_iced_tea_lemon_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Sylhet Golden Premium Black Tea",
+          "image": "/images/tea/local/sylhet_golden_premium_black_tea_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tetley Tea Bag Lemon Honey",
+          "image": "/images/tea/local/tetley_tea_bag_lemon_honey__bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Dilmah Ginger Honey",
+          "image": "/images/tea/imported/dilmah_ginger_honey_black_tea_srilanka.png",
+          "tags": ["Sri Lanka", "Ginger", "Honey"]
+        },
+        {
+          "name": "Halda Valley Golden Eyebrow",
+          "image": "/images/tea/imported/halda_valley_golden_eyebrow_black_tea__chine.png",
+          "tags": ["China", "Black Tea"]
+        },
+        {
+          "name": "Lipton Green Tea Pure & Light",
+          "image": "/images/tea/imported/lipton_green_tea_pure_and_light_india.png",
+          "tags": ["India", "Green Tea"]
+        },
+        {
+          "name": "Ceylon Gold Tea",
+          "image": "/images/tea/imported/seylon_gold_tea_srilanka.png",
+          "tags": ["Sri Lanka"]
+        },
+        {
+          "name": "Tata Tea Gold",
+          "image": "/images/tea/imported/tata_tea_gold__india.png",
+          "tags": ["India"]
+        },
+        {
+          "name": "Tetley Tea Bags",
+          "image": "/images/tea/imported/tetley_tea_bags_england.png",
+          "tags": ["England"]
+        },
+        {
+          "name": "Yummy Black Tea",
+          "image": "/images/tea/imported/yummy_black_tea_Vietnam_.png",
+          "tags": ["Vietnam", "Black Tea"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}

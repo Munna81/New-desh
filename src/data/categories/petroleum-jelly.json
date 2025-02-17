@@ -1,0 +1,130 @@
+{
+  "bn": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "কিউট লেমন ফ্রেশ",
+          "image": "/images/petrolium jelly/local/cute_lemon_fresh_petroleum_jellybd.png",
+          "tags": []
+        },
+        {
+          "name": "কেয়া পেট্রোলিয়াম জেলি",
+          "image": "/images/petrolium jelly/local/keya_petroleum_jelly_bd.png",
+          "tags": []
+        },
+        {
+          "name": "মেরিল পেট্রোলিয়াম জেলি",
+          "image": "/images/petrolium jelly/local/meril_petroleum_jelly_bd.png",
+          "tags": []
+        },
+        {
+          "name": "প্যারাশুট স্কিনপিউর",
+          "image": "/images/petrolium jelly/local/parachute_skinpure_petroleum_jelly_bd.png",
+          "tags": []
+        },
+        {
+          "name": "টিবেট পোমেড",
+          "image": "/images/petrolium jelly/local/tibet_pomade_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "ডাবর হারবোলিন অ্যালো",
+          "image": "/images/petrolium jelly/imported/dabur_herbolene_aloe_petroleum_jelly_uae.png",
+          "tags": ["UAE", "Aloe"]
+        },
+        {
+          "name": "জনসন",
+          "image": "/images/petrolium jelly/imported/johnsonsouth_africe.png",
+          "tags": ["South Africa"]
+        },
+        {
+          "name": "ভ্যাসলিন",
+          "image": "/images/petrolium jelly/imported/vaseline_petroleum_jelly_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "ভ্যাসলিন",
+          "image": "/images/petrolium jelly/imported/vaseline_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "ভাটিকা",
+          "image": "/images/petrolium jelly/imported/vatika_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "en": {
+    "seo": {
+      "title": "",
+      "description": ""
+    },
+    "products": {
+      "local_items": [
+        {
+          "name": "Cute Lemon Fresh",
+          "image": "/images/petrolium jelly/local/cute_lemon_fresh_petroleum_jellybd.png",
+          "tags": []
+        },
+        {
+          "name": "Keya Petroleum Jelly",
+          "image": "/images/petrolium jelly/local/keya_petroleum_jelly_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Meril Petroleum Jelly",
+          "image": "/images/petrolium jelly/local/meril_petroleum_jelly_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Parachute Skinpure",
+          "image": "/images/petrolium jelly/local/parachute_skinpure_petroleum_jelly_bd.png",
+          "tags": []
+        },
+        {
+          "name": "Tibet Pomade",
+          "image": "/images/petrolium jelly/local/tibet_pomade_bd.png",
+          "tags": []
+        }
+      ],
+      "imported_items": [
+        {
+          "name": "Dabur Herbolene Aloe",
+          "image": "/images/petrolium jelly/imported/dabur_herbolene_aloe_petroleum_jelly_uae.png",
+          "tags": ["UAE", "Aloe"]
+        },
+        {
+          "name": "Johnson's",
+          "image": "/images/petrolium jelly/imported/johnsonsouth_africe.png",
+          "tags": ["South Africa"]
+        },
+        {
+          "name": "Vaseline",
+          "image": "/images/petrolium jelly/imported/vaseline_petroleum_jelly_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Vaseline",
+          "image": "/images/petrolium jelly/imported/vaseline_usa.png",
+          "tags": ["USA"]
+        },
+        {
+          "name": "Vatika",
+          "image": "/images/petrolium jelly/imported/vatika_india.png",
+          "tags": ["India"]
+        }
+      ]
+    }
+  },
+  "importData": {
+    "annualImport": "",
+    "impact": ""
+  }
+}
