@@ -129,7 +129,7 @@ export default function Home() {
       <div className="min-h-screen flex flex-col items-center px-4">
         {/* Hero Section */}
         <div className="text-center mb-4">
-          <h1 className="text-base md:text-lg lg:text-2xl font-bold  bg-blue-100 p-6 rounded-lg shadow-md mb-3">
+          <h1 className="text-base md:text-lg lg:text-4xl font-bold bg-blue-100 p-6 rounded-lg shadow-md mb-3">
             {locale === "bn"
               ? "দেশি পণ্য কিনুন, অর্থনীতিতে ভূমিকা রাখুন"
               : "Buy Local Goods, Build Our Nation"}
