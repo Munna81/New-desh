@@ -14,7 +14,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             width={380}
             height={150}
             priority
-            className="h-32 w-auto object-contain"
+            className="h-32 hover:scale-110 transition-transform duration-300 shadow-lg rounded-full w-auto object-contain"
           />
         </Link>
       </header>
